@@ -68,7 +68,7 @@ const char* API_KEY = "AIzaSyBajN795iPI-_xAKalgH1MEzX74z6OImbM";
 const char* USER_EMAIL = "theo.pratnau@gmail.com";
 const char* USER_PASSWORD = "123456";
 
-#define SEAT_NUMBER 1
+#define SEAT_NUMBER 2
 String seatPath = "Seats/" + String(SEAT_NUMBER);
 
   Session_Config config;
@@ -347,10 +347,11 @@ void loop() {
             if (!timerExpired) {
                 timerExpired = true;
                 pushToDatabase("Timer Expired");
-                sendEmail("Timer Expired", "The timer on your device has expired.");
-                
-                // setColor(0, 255, 0); // Green Color
-                // setGreen = true; // Set LED to green
+
+                String emailTxt = "The timer on seat " + String(SEAT_NUMBER) + " has expired.";
+                const char* emailText = emailTxt.c_str();
+
+                sendEmail("Timer Expired", emailTxt);
             }
         } else {
             // setColor(255, 0, 0); // Red Color
