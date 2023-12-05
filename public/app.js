@@ -86,7 +86,12 @@ function showAnalysis(seatNumber) {
       performAnalysis(data);
     },
     { onlyOnce: true }
-  ); // Fetch data only once when the button is clicked
+  );
+
+  // Hide the chart container and display the analysis content
+  document.getElementById("chart-container").style.display = "none";
+  document.getElementById("historyData").style.display = "block"; // Assuming you're using the historyData element for analysis content
+  document.getElementById("historyModal").style.display = "block";
 }
 
 function performAnalysis(data) {
@@ -273,9 +278,13 @@ function showHistory(seatNumber) {
       displayHistory(data);
     },
     { onlyOnce: true }
-  ); // Fetch data only once when the button is clicked
-}
+  );
 
+  // Hide the chart container and display the history content
+  document.getElementById("chart-container").style.display = "none";
+  document.getElementById("historyData").style.display = "block"; // Assuming you're using the historyData element for history content
+  document.getElementById("historyModal").style.display = "block";
+}
 function displayHistory(data) {
   let historyHtml = "<h2>Seat History</h2>";
   const events = Object.values(data).filter(
@@ -304,9 +313,12 @@ function showGraph(seatNumber) {
     },
     { onlyOnce: true }
   );
+
+  // Show the chart container and hide the analysis and history content
+  document.getElementById("chart-container").style.display = "block";
+  document.getElementById("historyData").style.display = "none";
   document.getElementById("historyModal").style.display = "block";
 }
-
 let myChart; // Global variable to store the chart instance
 
 function processGraphData(data) {
@@ -365,6 +377,22 @@ function processGraphData(data) {
 }
 
 function createChart(labels, cardData, objectData, timerExpiredEvents) {
+  const numberOfDataPoints = cardData.length;
+  const minCanvasWidth = 1000; // Minimum width of the canvas
+  const widthPerDataPoint = 10; // Width allocated for each data point
+  const fixedCanvasHeight = 400; // Fixed height of the canvas
+
+  // Calculate the required canvas width
+  const canvasWidth = Math.max(
+    minCanvasWidth,
+    numberOfDataPoints * widthPerDataPoint
+  );
+
+  // Set the canvas width as an attribute
+  const canvas = document.getElementById("myChart");
+  canvas.setAttribute("width", canvasWidth);
+  canvas.setAttribute("height", fixedCanvasHeight);
+
   var ctx = document.getElementById("myChart").getContext("2d");
   return new Chart(ctx, {
     type: "line",
@@ -420,17 +448,17 @@ function createChart(labels, cardData, objectData, timerExpiredEvents) {
               value: event.timestamp, // Use the actual timestamp or index in labels array
               borderColor: "black",
               borderWidth: 2,
-              // label: {
-              //   // content: "Timer Expired",
-              //   enabled: true,
-              //   position: "top",
-              // },
+              label: {
+                content: "Timer Expired",
+                enabled: true,
+                position: "top",
+              },
             };
           }),
         },
       },
-      maintainAspectRatio: true,
-      aspectRatio: 3, // Adjust this value as needed
+      responsive: false, // Disable responsiveness
+      maintainAspectRatio: false,
     },
   });
 }
