@@ -57,6 +57,7 @@ function createSeatBox(seatNumber) {
 <p>Timer: <span id="timer${seatNumber}"></span></p>
 <button id="historyButton${seatNumber}">See History</button>
 <button id="analysisButton${seatNumber}">See Analysis</button>
+<button id="graphButton${seatNumber}">Show Graph</button>
 `;
 
   document.getElementById("seatsContainer").appendChild(seatBox);
@@ -71,6 +72,9 @@ function createSeatBox(seatNumber) {
   document
     .getElementById(`analysisButton${seatNumber}`)
     .addEventListener("click", () => showAnalysis(seatNumber));
+  document
+    .getElementById(`graphButton${seatNumber}`)
+    .addEventListener("click", () => showGraph(seatNumber));
 }
 
 function showAnalysis(seatNumber) {
@@ -288,6 +292,147 @@ function displayHistory(data) {
   // Display in the modal
   document.getElementById("historyData").innerHTML = historyHtml;
   document.getElementById("historyModal").style.display = "block";
+}
+
+function showGraph(seatNumber) {
+  const seatRef = ref(database, `Seats/${seatNumber}`);
+  onValue(
+    seatRef,
+    (snapshot) => {
+      const data = snapshot.val();
+      processGraphData(data);
+    },
+    { onlyOnce: true }
+  );
+  document.getElementById("historyModal").style.display = "block";
+}
+
+let myChart; // Global variable to store the chart instance
+
+function processGraphData(data) {
+  // Extract events and sort by timestamp
+  const events = Object.values(data).filter(
+    (event) => event.event && event.timestamp
+  );
+  events.sort((a, b) => a.timestamp - b.timestamp);
+
+  let timerExpiredEvents = events
+    .filter((event) => event.event === "Timer Expired")
+    .map((event) => {
+      let date = new Date(event.timestamp);
+      let label = `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`;
+
+      return { timestamp: label };
+    });
+
+  // Arrays to store the chart data
+  let cardData = [];
+  let objectData = [];
+  let labels = [];
+  let cardState = "Off";
+  let objectState = "Off";
+
+  events.forEach((event) => {
+    // Convert timestamp to a readable format for the labels
+    let date = new Date(event.timestamp);
+    let label = `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`;
+
+    if (event.event === "Card Placed") {
+      cardState = "On";
+    } else if (event.event === "Card Removed") {
+      cardState = "Off";
+    }
+
+    if (
+      event.event === "Object Added" ||
+      event.event === "Timer Expired" ||
+      event.event === "Object Removed"
+    ) {
+      objectState = event.event === "Object Removed" ? "Off" : "On";
+    }
+
+    labels.push(label);
+    cardData.push(cardState === "On" ? 1 : 0);
+    objectData.push(objectState === "On" ? 1 : 0);
+  });
+
+  if (myChart) {
+    myChart.destroy();
+  }
+
+  // Create the chart
+  myChart = createChart(labels, cardData, objectData, timerExpiredEvents);
+}
+
+function createChart(labels, cardData, objectData, timerExpiredEvents) {
+  var ctx = document.getElementById("myChart").getContext("2d");
+  return new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: "Card",
+          data: cardData,
+          backgroundColor: "rgba(255, 99, 132, 0.2)",
+          borderColor: "rgba(255, 99, 132, 1)",
+          borderWidth: 1,
+          fill: true,
+          stepped: true,
+        },
+        {
+          label: "Object",
+          data: objectData,
+          backgroundColor: "rgba(54, 162, 235, 0.2)",
+          borderColor: "rgba(54, 162, 235, 1)",
+          borderWidth: 1,
+          fill: true,
+          stepped: true,
+        },
+      ],
+    },
+    options: {
+      scales: {
+        x: {
+          type: "category", // Assuming labels are categories (like timestamps)
+          // ... other scale options ...
+        },
+        y: {
+          beginAtZero: true,
+          // Adjust scale to show only 'On'/'Off' values
+          ticks: {
+            callback: function (value) {
+              return value === 1 ? "On" : "Off";
+            },
+            stepSize: 1,
+            min: 0,
+            max: 1,
+          },
+        },
+      },
+      plugins: {
+        annotation: {
+          annotations: timerExpiredEvents.map((event, index) => {
+            return {
+              type: "line",
+              mode: "vertical",
+              scaleID: "x",
+              value: event.timestamp, // Use the actual timestamp or index in labels array
+              borderColor: "black",
+              borderWidth: 2,
+              // label: {
+              //   // content: "Timer Expired",
+              //   enabled: true,
+              //   position: "top",
+              // },
+            };
+          }),
+        },
+      },
+      maintainAspectRatio: true,
+      aspectRatio: 3, // Adjust this value as needed
+    },
+  });
 }
 
 // Get the modal

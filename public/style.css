@@ -42,3 +42,15 @@ body {
     text-decoration: none;
     cursor: pointer;
 }
+
+#chartContainer {
+    width: 100%; /* or set to a specific width */
+    overflow-x: scroll;
+  }
+  
+  #myChart {
+    display: inline-block;
+    width: 2000px; /* Adjust this width to control the scrolling */
+    height: 400px; /* Adjust height as needed */
+  }
+  
