@@ -1,32 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+    <!DOCTYPE html>
+    <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seat Availability</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Seat Availability</title>
+        <link rel="stylesheet" href="style2.css">
+    </head>
 
-<body>
-    <h1>Seat Status</h1>
+    <body>
+        <h1>Seat Status</h1>
+    <button id="logout-btn">Logout</button>
     <div id="seatsContainer"></div> <!-- Container for dynamic seat information -->
 
-    <!-- History Modal -->
-    <div id="historyModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <div id="historyData"></div>
-            <div id="chart-container" style="width: 100%; overflow-x: auto; display: none;">
-                <canvas id="myChart"></canvas>
+        <!-- History Modal -->
+        <div id="historyModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div id="historyData"></div>
+                <div id="chart-container" style="width: 100%; overflow-x: auto; display: none;">
+                    <canvas id="myChart"></canvas>
+                </div>
+                
             </div>
-            
         </div>
-    </div>
-</body>
+    </body>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.0.2"></script>
-<script type="module" src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.0.2"></script>
+    <script type="module" src="data.js"></script>
 
-</html>
+    </html>

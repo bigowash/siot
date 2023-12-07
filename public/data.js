@@ -1,6 +1,11 @@
 // Import Firebase modules
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js";
 import {
+  getAuth,
+  onAuthStateChanged,
+  signOut,
+} from "https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js";
+import {
   getDatabase,
   ref,
   onValue,
@@ -20,9 +25,50 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
 const database = getDatabase(app);
-
 let countdownInterval; // Global variable for the countdown interval
+
+// Check authentication state
+onAuthStateChanged(auth, (user) => {
+  if (!user) {
+    // If no user is logged in, redirect to login.html
+    window.location.href = "login.html";
+  } else {
+    // User is authenticated, continue with data fetching
+  }
+});
+
+const logoutButton = document.getElementById("logout-btn");
+logoutButton.addEventListener("click", () => {
+  const auth = getAuth();
+
+  signOut(auth)
+    .then(() => {
+      // Sign-out successful, redirect to login page or update UI
+      window.location.href = "login.html";
+    })
+    .catch((error) => {
+      // An error happened during logout
+      console.error("Logout error:", error);
+    });
+});
+
+function fetchAllSeats() {
+  const seatsRef = ref(database, "Seats");
+
+  onValue(
+    seatsRef,
+    (snapshot) => {
+      const seatsData = snapshot.val();
+      const seatNumbers = Object.keys(seatsData);
+
+      seatNumbers.forEach((seatNumber) => createSeatBox(seatNumber));
+    },
+    { onlyOnce: true }
+  );
+}
+
 function startCountdown(duration, displayElement) {
   let timer = duration,
     minutes,
@@ -150,21 +196,6 @@ function performAnalysis(data) {
   // Display in the modal or a designated section
   document.getElementById("historyData").innerHTML = analysisHtml;
   document.getElementById("historyModal").style.display = "block";
-}
-
-function fetchAllSeats() {
-  const seatsRef = ref(database, "Seats");
-
-  onValue(
-    seatsRef,
-    (snapshot) => {
-      const seatsData = snapshot.val();
-      const seatNumbers = Object.keys(seatsData);
-
-      seatNumbers.forEach((seatNumber) => createSeatBox(seatNumber));
-    },
-    { onlyOnce: true }
-  );
 }
 
 function fetchSeatData(seatNumber) {
