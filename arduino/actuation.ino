@@ -13,8 +13,11 @@
 #define RECIPIENT_EMAIL "theo.pratnau@gmail.com"
 SMTPSession smtp;
 
-#define RST_PIN 3  // Configurable, see typical pin layout above
-#define SS_PIN 4   // Configurable, see typical pin layout above
+
+// Create MFRC522 instance
+#define RST_PIN 3  
+#define SS_PIN 4  
+MFRC522 mfrc522(SS_PIN, RST_PIN);  
 
 // Ultrasonic sensor
 int trigPin = 0;  // Trigger
@@ -40,8 +43,8 @@ unsigned long cardRemovedTime = -9999999999; // Timestamp of when the card was r
 // const unsigned long cardRemovedInterval = 900000; // 15 minutes in milliseconds
 const unsigned long cardRemovedInterval = 1000*60; // 1 minutes in milliseconds
 
-unsigned long lastRFIDCheck = 0; // Variable to store the last time RFID was checked
-float rfidCheckInterval = 5000; // Timer interval in milliseconds
+unsigned long lastObjectCheck = 0; // Variable to store the last time RFID was checked
+float objectDetectionInterval = 5000; // Timer interval in milliseconds
 
 // States of the system
 bool cardPresent = false; // Current state of card presence
@@ -78,6 +81,7 @@ void setup() {
   Serial.begin(115200);
   while (!Serial);
 
+  // RFID
   SPI.begin();
   mfrc522.PCD_Init();
   delay(4);
@@ -298,8 +302,6 @@ void loop() {
           cardValue = readRFID();
           Serial.println(cardValue);
       }
-      //   Serial.println("Card still there");
-      // setColor(255, 0, 0); // Red Color
       setGreen = false;
   } else {
       absentCounter++;
@@ -311,9 +313,9 @@ void loop() {
       }
   }
 
-    if (millis() - lastRFIDCheck > rfidCheckInterval) {
+    if (millis() - lastObjectCheck > objectDetectionInterval) {
         // checkRFID();
-        lastRFIDCheck = millis(); // Update the last check time
+        lastObjectCheck = millis(); // Update the last check time
 
         objectDistance = distanceSensor();
         isObjThere = objectDistance <= 60;
