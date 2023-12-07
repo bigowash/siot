@@ -1,11 +1,59 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
 }
 
-#seatInfo {
-    margin: 20px;
+h1 {
+    color: #333;
+}
+
+#logout-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#logout-btn:hover {
+    background-color: #45a049;
+}
+
+#seatsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjust the minmax values based on your preference */
+    grid-gap: 20px; /* Space between grid items */
     padding: 20px;
+}
+
+.seatBox {
+    background-color: #fff;
     border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #007B9E;
 }
 
 /* Modal styles */
@@ -29,13 +77,29 @@ body {
     width: 80%;
 }
 
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    .seatBox, .modal-content {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    button {
+        width: 100%;
+    }
+}
+
+#seatInfo {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid hsl(0, 0%, 87%);
+}
 .close {
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
     color: black;
