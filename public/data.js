@@ -149,9 +149,10 @@ function performAnalysis(data) {
 
   let analysisHtml = "<h2>Seat Analysis</h2>";
 
-  // Prepare to calculate card usage durations
   const cardDurations = {}; // Store total duration for each card
   const cardAppearanceCounts = {}; // Store appearance count for each card
+  const cardMapping = {}; // Map each card to a student number
+  let studentCounter = 1; // Start with Student 1
 
   let lastCardUID = null;
   let lastCardTimestamp = null;
@@ -160,6 +161,11 @@ function performAnalysis(data) {
     if (event.event === "Card Placed") {
       lastCardUID = event.cardUID;
       lastCardTimestamp = event.timestamp;
+
+      // Map the card UID to a student number if not already done
+      if (!cardMapping[lastCardUID]) {
+        cardMapping[lastCardUID] = `Student ${studentCounter++}`;
+      }
     } else if (event.event === "Card Removed" && lastCardUID) {
       const duration = (event.timestamp - lastCardTimestamp) / 60000; // Convert ms to minutes
       cardDurations[lastCardUID] = (cardDurations[lastCardUID] || 0) + duration;
@@ -171,8 +177,8 @@ function performAnalysis(data) {
 
   // Display Card Usage Frequencies
   analysisHtml += `<p>Card Usage Frequencies:</p><ul>`;
-  for (const [card, frequency] of Object.entries(cardAppearanceCounts)) {
-    analysisHtml += `<li>${card}: ${frequency} times</li>`;
+  for (const card in cardAppearanceCounts) {
+    analysisHtml += `<li>${cardMapping[card]}: ${cardAppearanceCounts[card]} times</li>`;
   }
   analysisHtml += `</ul>`;
 
@@ -180,9 +186,11 @@ function performAnalysis(data) {
   analysisHtml += `<p>Card Durations (in minutes):</p><ul>`;
   let totalDuration = 0;
   let totalCount = 0;
-  for (const [card, duration] of Object.entries(cardDurations)) {
-    analysisHtml += `<li>${card}: ${duration.toFixed(2)} minutes</li>`;
-    totalDuration += duration;
+  for (const card in cardDurations) {
+    analysisHtml += `<li>${cardMapping[card]}: ${cardDurations[card].toFixed(
+      2
+    )} minutes</li>`;
+    totalDuration += cardDurations[card];
     totalCount += cardAppearanceCounts[card];
   }
   analysisHtml += `</ul>`;
@@ -316,6 +324,7 @@ function showHistory(seatNumber) {
   document.getElementById("historyData").style.display = "block"; // Assuming you're using the historyData element for history content
   document.getElementById("historyModal").style.display = "block";
 }
+
 function displayHistory(data) {
   let historyHtml = "<h2>Seat History</h2>";
   const events = Object.values(data).filter(
