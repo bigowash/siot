@@ -1,0 +1,270 @@
+Pushed JSON Successfully: Object Removed
+
+Pushed JSON Successfully: Timer Expired
+distanceSensor took 459 ms
+
+distanceSensor took 41 ms
+673
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 184 ms
+Updated light state successfully: Red
+pushToDatabase took 153 ms
+distanceSensor took 16 ms
+219
+distanceSensor took 3 ms
+Object added.
+Pushed JSON Successfully: Object Added
+distanceSensor took 167 ms
+5
+distanceSensor took 3 ms
+5
+distanceSensor took 3 ms
+5
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 188 ms
+distanceSensor took 2 ms
+5
+distanceSensor took 3 ms
+5
+
+distanceSensor took 328 ms
+distanceSensor took 36 ms
+566
+distanceSensor took 60 ms
+1000
+distanceSensor took 61 ms
+1001
+distanceSensor took 57 ms
+929
+distanceSensor took 2 ms
+Object added.
+Pushed JSON Successfully: Object Added
+distanceSensor took 172 ms
+7
+distanceSensor took 3 ms
+7
+distanceSensor took 51 ms
+827
+Pushed JSON Successfully: Object Removed
+distanceSensor took 200 ms
+distanceSensor took 60 ms
+997
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 176 ms
+Updated light state successfully: Red
+pushToDatabase took 158 ms
+distanceSensor took 71 ms
+1178
+distanceSensor took 60 ms
+998
+distanceSensor took 56 ms
+913
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 180 ms
+Pushed JSON Successfully: Object Removed
+distanceSensor took 182 ms
+Updated light state successfully: Green
+pushToDatabase took 167 ms
+distanceSensor took 41 ms
+
+sendEmail took 12073 ms
+Updated light state successfully: Green
+pushToDatabase took 150 ms
+distanceSensor took 3 ms
+
+took 3 ms
+5
+distanceSensor took 2 ms
+5
+distanceSensor took 3 ms
+5
+Pushed JSON Successfully: Timer Expired
+distanceSensor took 333 ms
+
+3
+distanceSensor took 73 ms
+1206
+Pushed JSON Successfully: Object Removed
+distanceSensor took 162 ms
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 159 ms
+Updated light state successfully: Red
+pushToDatabase took 161 ms
+distanceSensor took 73 ms
+1205
+distanceSensor took 3 ms
+Object added.
+Pushed JSON Successfully: Object Added
+distanceSensor took 151 ms
+7
+distanceSensor took 3 ms
+4
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 175 ms
+distanceSensor took 2 ms
+4
+distanceSensor took 3 ms
+4
+distanceSensor took 3 ms
+5
+
+sendEmail took 12124 ms
+Updated light state successfully: Green
+pushToDatabase took 177 ms
+distanceSensor took 2 ms
+
+distanceSensor took 3 ms
+3
+Pushed JSON Successfully: Timer Expired
+distanceSensor took 1214 ms
+
+Pushed JSON Successfully: Object Removed
+distanceSensor took 73 ms
+1205
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 168 ms
+Updated light state successfully: Red
+pushToDatabase took 159 ms
+distanceSensor took 73 ms
+1205
+distanceSensor took 3 ms
+Object added.
+Pushed JSON Successfully: Object Added
+distanceSensor took 185 ms
+3
+distanceSensor took 2 ms
+3
+distanceSensor took 3 ms
+3
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 241 ms
+distanceSensor took 3 ms
+3
+distanceSensor took 2 ms
+
+sendEmail took 12617 ms
+Updated light state successfully: Green
+pushToDatabase took 197 ms
+distanceSensor took 3 ms
+5
+distanceSensor took 2 ms
+5
+
+5
+distanceSensor took 2 ms
+5
+distanceSensor took 2 ms
+5
+distanceSensor took 3 ms
+5
+Pushed JSON Successfully: Timer Expired
+distanceSensor took 179 ms
+
+1205
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 203 ms
+Pushed JSON Successfully: Object Removed
+distanceSensor took 176 ms
+Updated light state successfully: Green
+pushToDatabase took 191 ms
+distanceSensor took 73 ms
+Pushed JSON Successfully: Card Placed
+distanceSensor took 173 ms
+Updated light state successfully: Red
+pushToDatabase took 164 ms
+distanceSensor took 17 ms
+255
+distanceSensor took 73 ms
+
+1100
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 178 ms
+Updated light state successfully: Red
+1205
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 180 ms
+Pushed JSON Successfully: Object Removed
+distanceSensor took 159 ms
+Updated light state successfully: Green
+pushToDatabase took 160 ms
+distanceSensor took 72 ms
+1186
+distanceSensor took 60 ms
+996
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 204 ms
+Updated light state successfully: Red
+pushToDatabase took 165 ms
+
+distanceSensor took 51 ms
+828
+distanceSensor took 72 ms
+1205
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 327 ms
+Pushed JSON Successfully: Object Removed
+distanceSensor took 162 ms
+Updated light state successfully: Green
+pushToDatabase took 172 ms
+distanceSensor took 72 ms
+1205
+distanceSensor took 73 ms
+1205
+
+distanceSensor took 71 ms
+1181
+distanceSensor took 73 ms
+1205
+distanceSensor took 7 ms
+93
+Card removed.
+Pushed JSON Successfully: Card Removed
+distanceSensor took 182 ms
+Pushed JSON Successfully: Object Removed
+distanceSensor took 162 ms
+Updated light state successfully: Green
+pushToDatabase took 160 ms
+distanceSensor took 51 ms
+828
+distanceSensor took 56 ms
+914
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 180 ms
+Updated light state successfully: Red
+pushToDatabase took 201 ms
+distanceSensor took 71 ms
+1183
+distanceSensor took 73 ms
+1205
+
+997
+Card added. UID: readRFID took 0 ms
+33 76 EA FD
+Pushed JSON Successfully: Card Placed
+distanceSensor took 183 ms
+Updated light state successfully: Red
+pushToDatabase took 179 ms
+distanceSensor took 71 ms
+1179
+distanceSensor took 45 ms
