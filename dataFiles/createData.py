@@ -30,7 +30,7 @@ def create_inputs():
         card_uids.append(card_uid)
 
         # Generate minutes_card_placed using a flattened normal distribution and convert to milliseconds
-        duration = int(abs(np.random.normal(100, 60))) + random.random()
+        duration = int(abs(np.random.normal(87, 159/2))) + random.random()
         minutes_card_placed.append(duration)
 
         # Start timer if object is present and card is removed

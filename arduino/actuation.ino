@@ -36,15 +36,13 @@ FirebaseJson json;
 FirebaseConfig firebaseConfig;
 FirebaseAuth firebaseAuth;
 
-MFRC522 mfrc522(SS_PIN, RST_PIN);  // Create MFRC522 instance
-
 bool isObjThere = false; // Flag to track if object is near
 unsigned long cardRemovedTime = -9999999999; // Timestamp of when the card was removed
 // const unsigned long cardRemovedInterval = 900000; // 15 minutes in milliseconds
 const unsigned long cardRemovedInterval = 1000*60; // 1 minutes in milliseconds
 
 unsigned long lastObjectCheck = 0; // Variable to store the last time RFID was checked
-float objectDetectionInterval = 5000; // Timer interval in milliseconds
+float objectDetectionInterval = 1000; // Timer interval in milliseconds
 
 // States of the system
 bool cardPresent = false; // Current state of card presence
@@ -74,8 +72,17 @@ const char* USER_PASSWORD = "123456";
 #define SEAT_NUMBER 2
 String seatPath = "Seats/" + String(SEAT_NUMBER);
 
-  Session_Config config;
+Session_Config config;
 void smtpCallback(SMTP_Status status);
+
+unsigned long startMillis;
+
+void printElapsedTime(const String &operation) {
+  unsigned long elapsed = millis() - startMillis;
+  Serial.print(operation + " took ");
+  Serial.print(elapsed);
+  Serial.println(" ms");
+}
 
 void setup() {
   Serial.begin(115200);
@@ -143,16 +150,19 @@ void setup() {
 }
 
 String readRFID() {
+  startMillis = millis();
   String uidString = "";
   for (byte i = 0; i < mfrc522.uid.size; i++) {
     uidString += mfrc522.uid.uidByte[i] < 0x10 ? " 0" : " ";
     uidString += String(mfrc522.uid.uidByte[i], HEX);
   }
   uidString.toUpperCase(); // Convert to uppercase
+  printElapsedTime("readRFID");
   return uidString;
 }
 
 long distanceSensor() {
+  startMillis = millis();
   digitalWrite(trigPin, LOW);
   delayMicroseconds(5);
   digitalWrite(trigPin, HIGH);
@@ -165,6 +175,7 @@ long distanceSensor() {
   // Convert the time into a distance
   cm = (duration / 2) / 29.1;
 
+  printElapsedTime("distanceSensor");
   return cm;
 }
 
@@ -173,19 +184,8 @@ void setColor(int redValue, int greenValue, int blueValue) {
   analogWrite(greenPin, greenValue);
 }
 
-void updateSeatInDB(bool isTaken) {
-  FirebaseJson json;
-  json.set("taken", isTaken); // Set the "taken" field to the provided boolean value
-
-  if (Firebase.updateNode(fbdo, "Seats/"+String(SEAT_NUMBER)+"/Availablility", json)) {
-    Serial.println("Updated seat state successfully: " + String(isTaken));
-  } else {
-    Serial.println("Failed to update seat state: " + String(isTaken));
-    Serial.println(fbdo.errorReason());
-  }
-}
-
 void pushToDatabase(String event, String cardVal = "") {
+    startMillis = millis();
     FirebaseJson json;
     json.set("event", event);
     json.set("timestamp/.sv", "timestamp");
@@ -201,9 +201,11 @@ void pushToDatabase(String event, String cardVal = "") {
         Serial.println("Failed to Push JSON: " + event);
         Serial.println(fbdo.errorReason());
     }
+  printElapsedTime("distanceSensor");
 }
 
 void updateLightStateInDB(bool lightState) {
+    startMillis = millis();
     FirebaseJson json;
     String state = lightState ? "Green" : "Red"; // Convert boolean to string
     json.set("lightState", state); // Set the "lightState" field
@@ -214,9 +216,11 @@ void updateLightStateInDB(bool lightState) {
         Serial.println("Failed to update light state: " + state);
         Serial.println(fbdo.errorReason());
     }
+    printElapsedTime("pushToDatabase");
 }
 
 void sendEmail(const String &subject, const String &message) {
+    startMillis = millis();
     SMTP_Message mail;
     mail.sender.name = F("ESP");
     mail.sender.email = AUTHOR_EMAIL;
@@ -244,6 +248,7 @@ void sendEmail(const String &subject, const String &message) {
 
     // Optionally, disconnect the SMTP session after sending the email
     smtp.closeSession();
+    printElapsedTime("sendEmail");
 }
 
 /* Callback function to get the Email sending status */
@@ -341,7 +346,7 @@ void loop() {
         cardPresentPrev = cardPresent;
     }
 
- // Handle timer expiration
+    // Handle timer expiration
     if (!cardPresent && isObjThere) {
         if (millis() - cardRemovedTime > cardRemovedInterval){
             setGreen = true; // Set LED to green
