@@ -1,0 +1,3066 @@
+{
+  "Seats": [
+    null,
+    {
+      "-NjIu7n8apcTURDj30Jh": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067314890
+      },
+      "-NjIu8lu9U2xpn0eUUsl": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067318906
+      },
+      "-NjIvEgKwg0PGsu_I48R": {
+        "event": "Card Removed",
+        "timestamp": 1700067605270
+      },
+      "-NjIvTDtCDzhm66abEYO": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067664825
+      },
+      "-NjIvUOTCtKrWF637HMK": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067669598
+      },
+      "-NjIvWddzUft9Shpl5Q1": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067678825
+      },
+      "-NjIvWrKy7EkZYfrnWpn": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067679701
+      },
+      "-NjIvZplCGlJ2Z-BjoZO": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067691889
+      },
+      "-NjIvc7yo6PgOWDlZtcN": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067705407
+      },
+      "-NjIvcr4lq56kF_LMUHc": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067708358
+      },
+      "-NjIvcrG9kDaT5UizDSS": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067708369
+      },
+      "-NjIve4op1D0Laav_-Bx": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700067713397
+      },
+      "-NjIvfJaneeBpAjrmDd5": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700067718438
+      },
+      "-NjIvlXgS4MISOnis6st": {
+        "event": "Object Removed",
+        "timestamp": 1700067743916
+      },
+      "-NjIw4RoLNnFOd5A08Dp": {
+        "event": "Object Removed",
+        "timestamp": 1700067825460
+      },
+      "-NjIwBYnrD1OxxP7bfpt": {
+        "event": "Object Removed",
+        "timestamp": 1700067854579
+      },
+      "-NjIxOF9JoItOc90R6Wq": {
+        "event": "Card Removed",
+        "timestamp": 1700068168714
+      },
+      "-NjIx_dk_EQqBsmKNxXg": {
+        "event": "Card Removed",
+        "timestamp": 1700068219505
+      },
+      "-NjIxeIBkhroP5X0zlMd": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700068238540
+      },
+      "-NjIxfVcLbXfNtGlZV4R": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700068243496
+      },
+      "-NjIxfYMB52oDW4SKV9V": {
+        "event": "Object Removed",
+        "timestamp": 1700068243671
+      },
+      "-NjIxgj0G8bVPQ0M47m8": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700068248513
+      },
+      "-NjIxhxP1Vdv7hsex8dQ": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700068253530
+      },
+      "-NjIxi-LBaXKPMee4nUh": {
+        "event": "Object Removed",
+        "timestamp": 1700068253718
+      },
+      "-NjIzPddtItKiB5W8opt": {
+        "event": "Card Removed",
+        "timestamp": 1700068698730
+      },
+      "-NjIzVw7Rkrol-64d0rN": {
+        "event": "Card Removed",
+        "timestamp": 1700068724488
+      },
+      "-NjIzY71vqb7S44XhNT0": {
+        "event": "Object Removed",
+        "timestamp": 1700068733442
+      },
+      "-NjIzZLKPAwgfbdU10v6": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700068738454
+      },
+      "-NjIz__ZkJYTsveSa1-E": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700068743525
+      },
+      "-NjIz_cq8PuLnmTu0Qg2": {
+        "event": "Object Removed",
+        "timestamp": 1700068743734
+      },
+      "-NjIzaojG8eYmFEYMjyz": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700068748591
+      },
+      "-NjIzc2SpMtZVxoobbcd": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700068753629
+      },
+      "-NjIzc5TZJw2aMS_ov6b": {
+        "event": "Object Removed",
+        "timestamp": 1700068753822
+      },
+      "-NjJ-2FFG5966aVhtJe6": {
+        "event": "Card Removed",
+        "timestamp": 1700068865040
+      },
+      "-NjJ-3Fct6izb8-l_OWM": {
+        "event": "Object Removed",
+        "timestamp": 1700068869161
+      },
+      "-NjJ-70Om6qwezia7gXZ": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Placed",
+        "timestamp": 1700068884569
+      },
+      "-NjJ-8B2Txa6NgHA5GeH": {
+        "cardUID": "C48F1F2E",
+        "event": "Card Removed",
+        "timestamp": 1700068889348
+      },
+      "-NjJ-9QwmMbdKtL8cDtz": {
+        "event": "Object Removed",
+        "timestamp": 1700068894460
+      },
+      "-NjJ0L8cqd5znKzU0UiY": {
+        "event": "Card Removed",
+        "timestamp": 1700069204585
+      },
+      "-NjJ0M8OifSjYk7lmBb9": {
+        "event": "Object Removed",
+        "timestamp": 1700069208665
+      },
+      "-NjJ0yzz8Gd_3uVTrCHF": {
+        "event": "Card Removed",
+        "timestamp": 1700069371904
+      },
+      "-NjJ1H8mmhnKayVykDDV": {
+        "event": "Card Removed",
+        "timestamp": 1700069450355
+      },
+      "-NjJ1I8uQ_g6P8MFUh7E": {
+        "event": "Object Removed",
+        "timestamp": 1700069454458
+      },
+      "-NjT8fEsLDt7oa41P7X_": {
+        "event": "Card Removed",
+        "timestamp": 1700239160313
+      },
+      "-NjT8i-kqSMmiFJfiU06": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700239171632
+      },
+      "-NjT8loOSjipWtpN57vs": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700239187225
+      },
+      "-NjT8ujoYzbs3j6auflP": {
+        "event": "Object Removed",
+        "timestamp": 1700239223797
+      },
+      "-NjT8yPpbswiE4v-1MUh": {
+        "event": "Object Removed",
+        "timestamp": 1700239238837
+      },
+      "-NjT99fmRyLhnukjwKze": {
+        "event": "Object Removed",
+        "timestamp": 1700239289075
+      },
+      "-NjT9PYgvC6Q8EPNmI4M": {
+        "event": "Card Removed",
+        "timestamp": 1700239354093
+      },
+      "-NjT9a_ESt17cNWE7aT0": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700239403344
+      },
+      "-NjT9i-JqmJD2_0qFK1v": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700239433748
+      },
+      "-NjT9k_2IwBMz5Fg0zd1": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700239444291
+      },
+      "-NjT9mspUmKElXnFSKAb": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700239453749
+      },
+      "-NjT9tucP1AmJEMTTvAo": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700239482536
+      },
+      "-NjT9xZElLK6w0k6INX9": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700239497487
+      },
+      "-NjTA-7DuuH4lGwZYKLG": {
+        "event": "Object Removed",
+        "timestamp": 1700239507983
+      },
+      "-NjTAOdCP0a4ACWvgvaq": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700239612494
+      },
+      "-NjTAQkdALTMQ7yFdozA": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700239621161
+      },
+      "-NjTASDFy0y0-YQjRrO3": {
+        "cardUID": " 64 F4 2C C2",
+        "event": "Card Placed",
+        "timestamp": 1700239627152
+      },
+      "-NjTATuoPKo7nxaEFfxG": {
+        "cardUID": " 64 F4 2C C2",
+        "event": "Card Removed",
+        "timestamp": 1700239634100
+      },
+      "-NjTAVKc2fiKM7d6lr7l": {
+        "cardUID": " BA B3 D2 A0",
+        "event": "Card Placed",
+        "timestamp": 1700239639912
+      },
+      "-NjTAXBNsQW2rd9peFZd": {
+        "cardUID": " BA B3 D2 A0",
+        "event": "Card Removed",
+        "timestamp": 1700239647513
+      },
+      "-NjTAarJ70aVsTY7JQEx": {
+        "cardUID": " BA B3 D2 A0",
+        "event": "Card Placed",
+        "timestamp": 1700239666644
+      },
+      "-NjTAe6CG0eHdHq0QUmq": {
+        "cardUID": " BA B3 D2 A0",
+        "event": "Card Removed",
+        "timestamp": 1700239679949
+      },
+      "-NjTAhYwUBw2_XUSp3dM": {
+        "event": "Object Removed",
+        "timestamp": 1700239694076
+      },
+      "-NjTAk2OCJubHtCLG7xD": {
+        "event": "Object Removed",
+        "timestamp": 1700239704281
+      },
+      "-NjTC1bHhrQCWvmylHfL": {
+        "event": "Card Removed",
+        "timestamp": 1700240042450
+      },
+      "-NjTC2bC-mOfQiLih48V": {
+        "event": "Object Removed",
+        "timestamp": 1700240046541
+      },
+      "-NjTC2h9sbRFkoUDMCoX": {
+        "event": "Object Added",
+        "timestamp": 1700240046922
+      },
+      "-NjTC2qBVWSaOvPCHoja": {
+        "event": "Object Added",
+        "timestamp": 1700240047500
+      },
+      "-NjTC2v0VtLy23XO7vjy": {
+        "event": "Object Added",
+        "timestamp": 1700240047809
+      },
+      "-NjTC2zGTOFyR5VSPhRC": {
+        "event": "Object Added",
+        "timestamp": 1700240048081
+      },
+      "-NjTC3YwZnjoXn1B8qGw": {
+        "event": "Object Added",
+        "timestamp": 1700240050428
+      },
+      "-NjTC3cCbGoS14eSiaYX": {
+        "event": "Object Added",
+        "timestamp": 1700240050701
+      },
+      "-NjTC3g_bK5vIrr6ZYZ-": {
+        "event": "Object Added",
+        "timestamp": 1700240050982
+      },
+      "-NjTC3lI2wImOk4I7fXp": {
+        "event": "Object Added",
+        "timestamp": 1700240051283
+      },
+      "-NjTC3tjGEXOaVh2rENF": {
+        "event": "Object Added",
+        "timestamp": 1700240051823
+      },
+      "-NjTC3xmBfdxAzu8wuD9": {
+        "event": "Object Added",
+        "timestamp": 1700240052082
+      },
+      "-NjTC419MEBoO-otyYdM": {
+        "event": "Object Added",
+        "timestamp": 1700240052362
+      },
+      "-NjTC44sKO7YLVzNjX53": {
+        "event": "Object Added",
+        "timestamp": 1700240052601
+      },
+      "-NjTC4AZF5zwmhAD-KV3": {
+        "event": "Object Added",
+        "timestamp": 1700240052964
+      },
+      "-NjTC4HhiJD0hVHDd9JA": {
+        "event": "Object Added",
+        "timestamp": 1700240053421
+      },
+      "-NjTC4Lm0xY7bYgJSEA-": {
+        "event": "Object Added",
+        "timestamp": 1700240053682
+      },
+      "-NjTC4QBOgOSY6enx-28": {
+        "event": "Object Added",
+        "timestamp": 1700240053964
+      },
+      "-NjTC4UpyiSDohl-vRIF": {
+        "event": "Object Added",
+        "timestamp": 1700240054261
+      },
+      "-NjTD3_cy95OIDoZNso0": {
+        "event": "Object Added",
+        "timestamp": 1700240312681
+      },
+      "-NjTD3ew-rZ1hXUaXr1k": {
+        "event": "Card Removed",
+        "timestamp": 1700240313021
+      },
+      "-NjTD4DNpZ79AUKA_O8r": {
+        "event": "Object Removed",
+        "timestamp": 1700240315288
+      },
+      "-NjTDGYlTFGeXvvke6aP": {
+        "event": "Object Added",
+        "timestamp": 1700240365810
+      },
+      "-NjTDIUqhIrHSk_LB5GO": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700240373751
+      },
+      "-NjTDYeggvYAqtWLKwtB": {
+        "event": "Object Removed",
+        "timestamp": 1700240439981
+      },
+      "-NjTDcesHohLLp3SzriE": {
+        "event": "Object Added",
+        "timestamp": 1700240460472
+      },
+      "-NjTDeLtZaw0Je-Ph68N": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700240467385
+      },
+      "-NjTDjhxxVbvIsJoQyt4": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Removed",
+        "timestamp": 1700240489341
+      },
+      "-NjTE6Affc-XrozsZU5z": {
+        "event": "Object Added",
+        "timestamp": 1700240585452
+      },
+      "-NjTENzwwznUkQbqjAuI": {
+        "event": "Object Added",
+        "timestamp": 1700240658429
+      },
+      "-NjTEO5YJW-lxw6QUddQ": {
+        "event": "Card Removed",
+        "timestamp": 1700240658851
+      },
+      "-NjTER2DjOGU6WNWVbX8": {
+        "event": "Object Added",
+        "timestamp": 1700240670926
+      },
+      "-NjTER7LtmcK8SYiePT8": {
+        "event": "Card Removed",
+        "timestamp": 1700240671254
+      },
+      "-NjTEZBBaMAeNjcDo2Ox": {
+        "event": "Object Removed",
+        "timestamp": 1700240704268
+      },
+      "-NjTEeGGZLHYXz2Isi5z": {
+        "event": "Object Added",
+        "timestamp": 1700240729169
+      },
+      "-NjTEgxX6qWJohmNudJc": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700240740194
+      },
+      "-NjTEmf2lddgzW1ncvNC": {
+        "event": "Card Removed",
+        "timestamp": 1700240763587
+      },
+      "-NjTErlLNOkQ3HydfkL7": {
+        "event": "Object Removed",
+        "timestamp": 1700240784470
+      },
+      "-NjTF-djWoQ7BPhj2__M": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700240820847
+      },
+      "-NjTF2GoiNMnx9BNmHLw": {
+        "event": "Card Removed",
+        "timestamp": 1700240831604
+      },
+      "-NjTF2KZ0IscsmlwNfP_": {
+        "event": "Object Removed",
+        "timestamp": 1700240831844
+      },
+      "-NjTF71GGiMz9RwR_G84": {
+        "event": "Object Added",
+        "timestamp": 1700240851089
+      },
+      "-NjTFASomyODMney0Z8i": {
+        "event": "Object Removed",
+        "timestamp": 1700240865140
+      },
+      "-NjTFBc2-SZhKa7sbvln": {
+        "event": "Object Added",
+        "timestamp": 1700240869891
+      },
+      "-NjTFD5bHbIN-HUnYOSC": {
+        "event": "Object Removed",
+        "timestamp": 1700240875943
+      },
+      "-NjbGvdSmAESgMPVQ7Yh": {
+        "event": "Object Added",
+        "timestamp": 1700392319581
+      },
+      "-NjbGvg6Qv9w3U2Vqtth": {
+        "event": "Card Removed",
+        "timestamp": 1700392319751
+      },
+      "-NjbH-3ZqZMrZE_V_utY": {
+        "event": "Object Removed",
+        "timestamp": 1700392337700
+      },
+      "-NjbH6sA6lv7HiDDKJfe": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700392369675
+      },
+      "-NjbHI3yeqMzipX6w46B": {
+        "event": "Card Removed",
+        "timestamp": 1700392415551
+      },
+      "-NjbHI6azrJIpoYBIvtA": {
+        "event": "Object Removed",
+        "timestamp": 1700392415718
+      },
+      "-NjbHNv_FXw55tw7Wu-E": {
+        "event": "Object Added",
+        "timestamp": 1700392439526
+      },
+      "-NjbHRFdfzWW0DSBv8B_": {
+        "event": "Object Removed",
+        "timestamp": 1700392453161
+      },
+      "-NjbHTjeish8_7OxoShZ": {
+        "event": "Object Added",
+        "timestamp": 1700392463338
+      },
+      "-NjbHUucUsrnQVLPrwS_": {
+        "event": "Object Removed",
+        "timestamp": 1700392468136
+      },
+      "-NjbHmeIdh3JjYcmTLde": {
+        "cardUID": " 33 2A EE FD",
+        "event": "Card Placed",
+        "timestamp": 1700392544916
+      },
+      "-NjbHnKConNi24f2nfG4": {
+        "event": "Card Removed",
+        "timestamp": 1700392547661
+      },
+      "-NjbHnMcKhQ1qNelXS-c": {
+        "event": "Object Removed",
+        "timestamp": 1700392547816
+      },
+      "-NjbHvj0uG9gFIrsP5u0": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700392582081
+      },
+      "-NjbHwUpYokg3oqJxo9P": {
+        "event": "Card Removed",
+        "timestamp": 1700392585205
+      },
+      "-NjbHwYlB2RkBjAQ7Ec8": {
+        "event": "Object Removed",
+        "timestamp": 1700392585457
+      },
+      "-NjbJ4IOQ_ytPUwHRWWx": {
+        "event": "Card Removed",
+        "timestamp": 1700392883417
+      },
+      "-NjbJZsh56tGzhr81KQQ": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700393012781
+      },
+      "-NjbJbOkSUvM55Mq1fAb": {
+        "event": "Object Added",
+        "timestamp": 1700393023088
+      },
+      "-NjbJgOOx3ajqZPYnQRM": {
+        "event": "Card Removed",
+        "timestamp": 1700393043545
+      },
+      "-NjbJjMiQdxHmPAeee2S": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700393055726
+      },
+      "-NjbJmW2qWRgGILMKJ4e": {
+        "event": "Card Removed",
+        "timestamp": 1700393068611
+      },
+      "-NjbJmtoVPutxoyxQUUh": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1700393070196
+      },
+      "-NjbJq48k0Uf6MYSjpC1": {
+        "event": "Card Removed",
+        "timestamp": 1700393083209
+      },
+      "-NjbJrUhOrisEfp2mWld": {
+        "event": "Object Removed",
+        "timestamp": 1700393089005
+      },
+      "-NjbJwQL8cfX11vXAkqo": {
+        "event": "Object Added",
+        "timestamp": 1700393109206
+      },
+      "-NjbK-6H_tp9nx66FtL3": {
+        "event": "Object Removed",
+        "timestamp": 1700393124306
+      },
+      "-NjbK9UAc_kh-ljQP6CJ": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700393166795
+      },
+      "-NjbKBJbS4Tsdir7qqnY": {
+        "event": "Object Added",
+        "timestamp": 1700393174311
+      },
+      "-NjbKEkW4_XJefSutOoj": {
+        "event": "Card Removed",
+        "timestamp": 1700393188385
+      },
+      "-NjbKG_HXlGCVmhYsh54": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1700393195858
+      },
+      "-NjbKNArcE2x78K5RpdS": {
+        "event": "Card Removed",
+        "timestamp": 1700393222903
+      },
+      "-NjbKNENEgWADe-eBWDG": {
+        "event": "Object Removed",
+        "timestamp": 1700393223128
+      },
+      "-NjbKhQWj8rj3QXrMoea": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700393309922
+      },
+      "-NjbKihPLMlOgu460GjW": {
+        "event": "Object Added",
+        "timestamp": 1700393315162
+      },
+      "-NjbKmRop7bKI2OKX_dw": {
+        "event": "Card Removed",
+        "timestamp": 1700393330484
+      },
+      "-NjbKnSSQxPVz0EvNfeO": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1700393334621
+      },
+      "-NjbKqKswHTbNWp4o7vu": {
+        "event": "Card Removed",
+        "timestamp": 1700393346424
+      },
+      "-NjbKrI8VspQchA5mhc4": {
+        "event": "Object Removed",
+        "timestamp": 1700393350345
+      },
+      "-NjbKtiULXMtZYH86J8k": {
+        "event": "Object Added",
+        "timestamp": 1700393360287
+      },
+      "-NjbKuxxreIyZgGbwYxy": {
+        "event": "Object Removed",
+        "timestamp": 1700393365373
+      },
+      "-NjbKwAO7iJeEXggf0_p": {
+        "event": "Object Added",
+        "timestamp": 1700393370329
+      },
+      "-NjbKxpykO1oeNZQ2ujK": {
+        "cardUID": " 43 F2 FE FD",
+        "event": "Card Placed",
+        "timestamp": 1700393377150
+      },
+      "-NjbNWfgYkK0YLDmhGvQ": {
+        "event": "Card Removed",
+        "timestamp": 1700394048237
+      },
+      "-NjbNWiRk9gD-20YFwoi": {
+        "event": "Timer Expired",
+        "timestamp": 1700394048412
+      },
+      "-NjbNZtpJhlilxBte48L": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394061429
+      },
+      "-NjbNe8KpuQ_x_vpAsk6": {
+        "event": "Card Removed",
+        "timestamp": 1700394082901
+      },
+      "-NjbNeAta437hvZ6eW0q": {
+        "event": "Timer Expired",
+        "timestamp": 1700394083065
+      },
+      "-NjbNeV2YXEHrlmA9wbw": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394084355
+      },
+      "-NjbNkJlTlpepJsbL_HD": {
+        "event": "Card Removed",
+        "timestamp": 1700394108209
+      },
+      "-NjbNkMC-sNwFkdEyKzA": {
+        "event": "Timer Expired",
+        "timestamp": 1700394108365
+      },
+      "-NjbNkPKXTlItGB9nJZ5": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394108565
+      },
+      "-NjbNmPXJGLbDUNQju1l": {
+        "event": "Card Removed",
+        "timestamp": 1700394116771
+      },
+      "-NjbNmRuB9WWBbLpNCEe": {
+        "event": "Timer Expired",
+        "timestamp": 1700394116922
+      },
+      "-NjbNnz6l82YMNp7D4Xc": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394123207
+      },
+      "-NjbNsPFU5pnLZU8gnRv": {
+        "event": "Card Removed",
+        "timestamp": 1700394141328
+      },
+      "-NjbNsRm_bChlXVHb9D5": {
+        "event": "Timer Expired",
+        "timestamp": 1700394141490
+      },
+      "-NjbNsiv7EZ2CFvkzRYA": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394142651
+      },
+      "-NjbNtXzdCLu8Y7WHPcP": {
+        "event": "Card Removed",
+        "timestamp": 1700394145983
+      },
+      "-NjbNt_WsKcvziu9H2kH": {
+        "event": "Timer Expired",
+        "timestamp": 1700394146145
+      },
+      "-NjbNtrQXegQYkvGG3Wb": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394147291
+      },
+      "-NjbNvRXkKhnhmw-mJVJ": {
+        "event": "Card Removed",
+        "timestamp": 1700394153763
+      },
+      "-NjbNvUWYV1FX1116Wto": {
+        "event": "Timer Expired",
+        "timestamp": 1700394153953
+      },
+      "-NjbNw6Aaql_fXZw4GyM": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394156491
+      },
+      "-NjbNwyKXKj5W03QdU9m": {
+        "event": "Card Removed",
+        "timestamp": 1700394160021
+      },
+      "-NjbNx13aYPOm4ecX2PV": {
+        "event": "Timer Expired",
+        "timestamp": 1700394160260
+      },
+      "-NjbNxFK_ZiTNsqkz_I8": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394161173
+      },
+      "-NjbO0QxxP5ExbICNEPv": {
+        "event": "Card Removed",
+        "timestamp": 1700394178301
+      },
+      "-NjbO0TsZO5apOFMfZp7": {
+        "event": "Timer Expired",
+        "timestamp": 1700394178488
+      },
+      "-NjbO0u4n94LDxQ1H6uZ": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394180229
+      },
+      "-NjbO4GeCwpZAXv6rpqK": {
+        "event": "Card Removed",
+        "timestamp": 1700394194026
+      },
+      "-NjbO4JTvIkp7v9CePUQ": {
+        "event": "Timer Expired",
+        "timestamp": 1700394194206
+      },
+      "-NjbO4r3ln41icHg2c43": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394196421
+      },
+      "-NjbO6jwTmx05ZNnfC-K": {
+        "event": "Card Removed",
+        "timestamp": 1700394204157
+      },
+      "-NjbO6nSphKhWyVrJhxF": {
+        "event": "Timer Expired",
+        "timestamp": 1700394204381
+      },
+      "-NjbO7CSCmOu1mPlwRvO": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394206045
+      },
+      "-NjbO8766SdXaeRpGKYt": {
+        "event": "Card Removed",
+        "timestamp": 1700394209799
+      },
+      "-NjbO89opJ1nHBV9sixw": {
+        "event": "Timer Expired",
+        "timestamp": 1700394209972
+      },
+      "-NjbO8MDCn9OKNlMFhtf": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394210766
+      },
+      "-NjbO9ANBv4euG7342CN": {
+        "event": "Card Removed",
+        "timestamp": 1700394214104
+      },
+      "-NjbO9ET_23oY7uHNHOk": {
+        "event": "Timer Expired",
+        "timestamp": 1700394214366
+      },
+      "-NjbO9J9XC08PbPtpfeo": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394214666
+      },
+      "-NjbOFiMGgUL2wBTY228": {
+        "event": "Card Removed",
+        "timestamp": 1700394240919
+      },
+      "-NjbOFlK1TNZASk3nPv6": {
+        "event": "Timer Expired",
+        "timestamp": 1700394241109
+      },
+      "-NjbOG-6NuggCDH3jVJi": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394242055
+      },
+      "-NjbOGf6QFZDtl-bw14m": {
+        "event": "Card Removed",
+        "timestamp": 1700394244807
+      },
+      "-NjbOGifkpRFNRM3Xe5x": {
+        "event": "Timer Expired",
+        "timestamp": 1700394245035
+      },
+      "-NjbOGmMNk3Oa8Hq1Oly": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394245271
+      },
+      "-NjbOHmMGGLnzdxveaw4": {
+        "event": "Card Removed",
+        "timestamp": 1700394249367
+      },
+      "-NjbOHp6Y09UNd7gDxDY": {
+        "event": "Timer Expired",
+        "timestamp": 1700394249543
+      },
+      "-NjbOI53ytv5b76dz0bq": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394250629
+      },
+      "-NjbOJGTS7Ddmz5p43it": {
+        "event": "Card Removed",
+        "timestamp": 1700394255454
+      },
+      "-NjbOJJSDngc1dhgoZr5": {
+        "event": "Timer Expired",
+        "timestamp": 1700394255645
+      },
+      "-NjbOJb_LDa8JIU2kyif": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394256869
+      },
+      "-NjbOKlszGZqDDoLKyf1": {
+        "event": "Card Removed",
+        "timestamp": 1700394261624
+      },
+      "-NjbOKokfOdIkH9K8a5b": {
+        "event": "Timer Expired",
+        "timestamp": 1700394261808
+      },
+      "-NjbOL8wtyqhGgcvqowb": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394263164
+      },
+      "-NjbOMCMxUDYYTjbMMWo": {
+        "event": "Card Removed",
+        "timestamp": 1700394267479
+      },
+      "-NjbOMGIx36wwrYfkuda": {
+        "event": "Timer Expired",
+        "timestamp": 1700394267731
+      },
+      "-NjbOMKchHx7Dj5uRsq5": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394268008
+      },
+      "-NjbONIS6LScBoZPdAwN": {
+        "event": "Card Removed",
+        "timestamp": 1700394271965
+      },
+      "-NjbONL4YD_NGI5GMXph": {
+        "event": "Timer Expired",
+        "timestamp": 1700394272133
+      },
+      "-NjbONNpcxaEJMePsSZG": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394272309
+      },
+      "-NjbOOQGgbGXqjFugEaq": {
+        "event": "Card Removed",
+        "timestamp": 1700394276561
+      },
+      "-NjbOOUCCJfCz1nLY506": {
+        "event": "Timer Expired",
+        "timestamp": 1700394276813
+      },
+      "-NjbOS88vfIbIDP_o9yP": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1700394291785
+      },
+      "-NjbV8ndk3RsQgBT2j_y": {
+        "event": "Card Removed",
+        "timestamp": 1700396047593
+      },
+      "-NjbVDQPwxrpPQGBbs6m": {
+        "event": "Object Added",
+        "timestamp": 1700396066522
+      },
+      "-NjbVDv-__jyd8LiKkjF": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700396068544
+      },
+      "-NjbYXVpFhrEoj-UM1tj": {
+        "event": "Card Removed",
+        "timestamp": 1700396935222
+      },
+      "-NjbYZRraLpRpIK_ILxY": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700396943159
+      },
+      "-Njbb1K6dRQwtyURsnIG": {
+        "event": "Card Removed",
+        "timestamp": 1700397851975
+      },
+      "-Njbb1OT-hU_6sq7Iqif": {
+        "event": "Timer Expired",
+        "timestamp": 1700397852254
+      },
+      "-Njbb2g3Z3b9dXvCiuEA": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700397857540
+      },
+      "-NjbcldDd07ZCQcWV_IV": {
+        "event": "Object Added",
+        "timestamp": 1700398307919
+      },
+      "-Njbe0pGMfWgseyWYFZb": {
+        "event": "Object Added",
+        "timestamp": 1700398636370
+      },
+      "-Njbe4zWabToNIXg6fdC": {
+        "event": "Object Added",
+        "timestamp": 1700398653409
+      },
+      "-NjbfRAyESJPSf1uRmQP": {
+        "event": "Card Removed",
+        "timestamp": 1700399006462
+      },
+      "-NjbfRDZY1RWaDyUQ_jB": {
+        "event": "Timer Expired",
+        "timestamp": 1700399006628
+      },
+      "-NjbfU9y5sqbTEE0m-qY": {
+        "cardUID": " 43 F2 FE FD",
+        "event": "Card Placed",
+        "timestamp": 1700399018686
+      },
+      "-NjbtBQeZ1GDyEk3e8sg": {
+        "event": "Object Added",
+        "timestamp": 1700402611946
+      },
+      "-NjbtBTFr-ixhS-K6JZ7": {
+        "event": "Card Removed",
+        "timestamp": 1700402612112
+      },
+      "-NjbtH7Nn44Pda9Qm-zU": {
+        "event": "Object Removed",
+        "timestamp": 1700402635288
+      },
+      "-NjbtJb7VcfV-Ss0ekC0": {
+        "event": "Object Added",
+        "timestamp": 1700402645449
+      },
+      "-NjbtJdt2Gp5fATGTfZ9": {
+        "event": "Timer Expired",
+        "timestamp": 1700402645626
+      },
+      "-NjbtNN5LTCGEMNVTBXJ": {
+        "cardUID": " 43 F2 FE FD",
+        "event": "Card Placed",
+        "timestamp": 1700402660870
+      },
+      "-NjbtPbc2tnlb8-1ZvUj": {
+        "event": "Card Removed",
+        "timestamp": 1700402670057
+      },
+      "-NjbtwxJRfO5BH_Y3oKQ": {
+        "cardUID": " 43 F2 FE FD",
+        "event": "Card Placed",
+        "timestamp": 1700402810709
+      },
+      "-Njbu-hwmgPgHcCKVM1n": {
+        "event": "Card Removed",
+        "timestamp": 1700402826108
+      },
+      "-NjbvJkHvJCkm_zmG7Ym": {
+        "event": "Object Removed",
+        "timestamp": 1700403170322
+      },
+      "-NjbvOivUT2i2Y0gQw2b": {
+        "event": "Object Added",
+        "timestamp": 1700403190715
+      },
+      "-NjbvPdcuMO7_ErsYSa7": {
+        "event": "Object Removed",
+        "timestamp": 1700403194472
+      },
+      "-Njbw731pQpJ9Ye6grVq": {
+        "event": "Object Added",
+        "timestamp": 1700403380483
+      },
+      "-NjbxSQNhe1NBnAyGJ6V": {
+        "event": "Timer Expired",
+        "timestamp": 1700403730136
+      },
+      "-NjbxUaknyu-pR3doAGS": {
+        "cardUID": " 43 F2 FE FD",
+        "event": "Card Placed",
+        "timestamp": 1700403739056
+      },
+      "-Njc2XFALTZLpKTHviOd": {
+        "event": "Card Removed",
+        "timestamp": 1700405322764
+      },
+      "-Njc2XJ5ZpEILkU-DI09": {
+        "event": "Object Removed",
+        "timestamp": 1700405323014
+      },
+      "-Njc2_oA1qaC0rcwdeTv": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700405337355
+      },
+      "-Njc2exCq0Uwv4xvL1yh": {
+        "event": "Object Added",
+        "timestamp": 1700405358413
+      },
+      "-Njc3EKhDH-0GD6OI8n0": {
+        "event": "Card Removed",
+        "timestamp": 1700405507438
+      },
+      "-Njc3E_QF-N55NcxmPW6": {
+        "event": "Object Removed",
+        "timestamp": 1700405508443
+      },
+      "-Njc3G36GU4PeJ08PyUl": {
+        "event": "Object Added",
+        "timestamp": 1700405514503
+      },
+      "-Njc3YqM1rpVeHC-FAo9": {
+        "event": "Object Added",
+        "timestamp": 1700405591448
+      },
+      "-Njc3YtPYSBHecgeRyEl": {
+        "event": "Card Removed",
+        "timestamp": 1700405591642
+      },
+      "-Njc3ubgbwiB-CeZr3vq": {
+        "event": "Object Removed",
+        "timestamp": 1700405684717
+      },
+      "-Njc3wX0o3Wtem0wnJKV": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700405692545
+      },
+      "-Njc3y1HdGV4Ug1u6L1X": {
+        "event": "Object Added",
+        "timestamp": 1700405698706
+      },
+      "-Njc3zdU0K--jBKWTA8i": {
+        "event": "Card Removed",
+        "timestamp": 1700405705312
+      },
+      "-Njc4-UIDGB0hhPZZOiw": {
+        "event": "Object Removed",
+        "timestamp": 1700405708755
+      },
+      "-Njc5AgOlc4rn6uU6lne": {
+        "event": "Object Added",
+        "timestamp": 1700406016793
+      },
+      "-Njc5Cs3lW5JtMx9-2G7": {
+        "event": "Object Removed",
+        "timestamp": 1700406025733
+      },
+      "-Njc5lVE2oyo1zWezh8S": {
+        "event": "Object Added",
+        "timestamp": 1700406171664
+      },
+      "-Njc5mbFeRsOLgYstA7U": {
+        "event": "Object Removed",
+        "timestamp": 1700406176208
+      },
+      "-Njc5wyr2NK-f9yxXT_P": {
+        "event": "Object Added",
+        "timestamp": 1700406218680
+      },
+      "-Njc6kcG0WyM0G4O1BY6": {
+        "event": "Object Added",
+        "timestamp": 1700406430226
+      },
+      "-Njc6khfJ6cQNKruWVMM": {
+        "event": "Card Removed",
+        "timestamp": 1700406430571
+      },
+      "-Njc6m-sKW-KaHgqqPfQ": {
+        "event": "Object Removed",
+        "timestamp": 1700406435896
+      },
+      "-Njc6mrltlpHbulwWYNU": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700406439409
+      },
+      "-Njc6po3tl5rzyavz1gl": {
+        "event": "Card Removed",
+        "timestamp": 1700406451460
+      },
+      "-Njc6prE256RfwK1cxcl": {
+        "event": "Object Removed",
+        "timestamp": 1700406451664
+      },
+      "-Njc6qataOkJsa3RuqQT": {
+        "cardUID": " 13 D9 0C EC",
+        "event": "Card Placed",
+        "timestamp": 1700406454713
+      },
+      "-Njc6s9m32WhHGa3_SpP": {
+        "event": "Object Added",
+        "timestamp": 1700406461106
+      },
+      "-Njc6tSuSnevhwM6Nh0j": {
+        "event": "Card Removed",
+        "timestamp": 1700406466426
+      },
+      "-Njc6ubXSKdDa-5tDPRY": {
+        "event": "Object Removed",
+        "timestamp": 1700406471138
+      },
+      "-Njc6yKDUr7qyv-WzUJt": {
+        "event": "Object Added",
+        "timestamp": 1700406486350
+      },
+      "-Njc8IS2zQz7vMWGi89W": {
+        "event": "Object Added",
+        "timestamp": 1700406835012
+      },
+      "-Njc8IVQcTPQc_5FjG__": {
+        "event": "Card Removed",
+        "timestamp": 1700406835227
+      },
+      "-Njc8ntGMP5d0TVq3o6j": {
+        "event": "Object Added",
+        "timestamp": 1700406967889
+      },
+      "-Njc8nwIdH5E_7PzB2YM": {
+        "event": "Card Removed",
+        "timestamp": 1700406968083
+      },
+      "-NjcApHaq3nLrZOHzajo": {
+        "event": "Object Added",
+        "timestamp": 1700407497895
+      },
+      "-NjcApLIr-YhDM6EfMu4": {
+        "event": "Card Removed",
+        "timestamp": 1700407498131
+      },
+      "-NjcB113Nnzp1dsOi76h": {
+        "event": "Object Added",
+        "timestamp": 1700407550085
+      },
+      "-NjcB13pkMvI_fEym4cg": {
+        "event": "Card Removed",
+        "timestamp": 1700407550261
+      },
+      "-NkFzrrvsis1vcSKyYEk": {
+        "event": "Object Added",
+        "timestamp": 1701092228603
+      },
+      "-NkFzrukbG07C5If-iZg": {
+        "event": "Card Removed",
+        "timestamp": 1701092228784
+      },
+      "-NkFzsciHLIXLWyKwo5l": {
+        "event": "Object Removed",
+        "timestamp": 1701092231726
+      },
+      "-NkFzwclxS6G1Rp0ADzu": {
+        "event": "Object Added",
+        "timestamp": 1701092248114
+      },
+      "-NkG-Q6urEcBje87jQ_E": {
+        "event": "Object Added",
+        "timestamp": 1701092372987
+      },
+      "-NkG-QAK23aaoOKpEMCz": {
+        "event": "Card Removed",
+        "timestamp": 1701092373205
+      },
+      "-NkG-S58T329z7-3vzXK": {
+        "event": "Object Removed",
+        "timestamp": 1701092381065
+      },
+      "-NkG-WCkSht_lS-_1dSl": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701092397936
+      },
+      "-NkG-euRE5s4SXSk4Gy9": {
+        "event": "Card Removed",
+        "timestamp": 1701092437660
+      },
+      "-NkG-eyArreiBictioFw": {
+        "event": "Object Removed",
+        "timestamp": 1701092437899
+      },
+      "-NkG-oQodM0t_XYunyaB": {
+        "event": "Object Added",
+        "timestamp": 1701092476660
+      },
+      "-NkG2ud54q4RSWR_sEZ2": {
+        "event": "Object Added",
+        "timestamp": 1701093288518
+      },
+      "-NkG2ugDGY3DmmXI7iC6": {
+        "event": "Card Removed",
+        "timestamp": 1701093288719
+      },
+      "-NkG2z4AvN6o1c3WrA8O": {
+        "event": "Object Removed",
+        "timestamp": 1701093306699
+      },
+      "-NkG3-HyB63hxQzAcsxJ": {
+        "event": "Object Added",
+        "timestamp": 1701093311679
+      },
+      "-NkG3qRIUJjyHrdHlcCk": {
+        "event": "Object Added",
+        "timestamp": 1701093533459
+      },
+      "-NkG3qTocD1wZcQmlXsT": {
+        "event": "Card Removed",
+        "timestamp": 1701093533620
+      },
+      "-NkG3r3FSnGUNzgrpmuc": {
+        "event": "Object Removed",
+        "timestamp": 1701093536016
+      },
+      "-NkG3sGSW8FnXruz42Ab": {
+        "event": "Object Added",
+        "timestamp": 1701093540957
+      },
+      "-NkG3tVCyBV1GyyQ1GAC": {
+        "event": "Object Removed",
+        "timestamp": 1701093545997
+      },
+      "-NkG48ei7qrcXdX1nA4x": {
+        "event": "Object Added",
+        "timestamp": 1701093612207
+      },
+      "-NkG4o_IcrLL79s3A9Cu": {
+        "event": "Object Added",
+        "timestamp": 1701093787988
+      },
+      "-NkG4ocRE23KMVIkUSl8": {
+        "event": "Card Removed",
+        "timestamp": 1701093788188
+      },
+      "-NkG4qZBXR8LjO_GF1pt": {
+        "event": "Object Removed",
+        "timestamp": 1701093796108
+      },
+      "-NkG4t-EhPYxulQDoFmm": {
+        "event": "Object Added",
+        "timestamp": 1701093806095
+      },
+      "-NkG4uEUuvtlwg5aG7PR": {
+        "event": "Object Removed",
+        "timestamp": 1701093811167
+      },
+      "-NkG4uNuZBreS8j4Euva": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701093811770
+      },
+      "-NkG4vMLGgBIMSFhqQ13": {
+        "event": "Card Removed",
+        "timestamp": 1701093815766
+      },
+      "-NkG4vOsfbBNLd_Aq1R-": {
+        "event": "Object Removed",
+        "timestamp": 1701093815928
+      },
+      "-NkG4wiFzaoXLKmEDY_e": {
+        "event": "Object Added",
+        "timestamp": 1701093821328
+      },
+      "-NkG4zBf9aay8-9cs-xj": {
+        "event": "Object Removed",
+        "timestamp": 1701093831467
+      },
+      "-NkG5JZ7tknF2aLb-yy7": {
+        "event": "Object Added",
+        "timestamp": 1701093918985
+      },
+      "-NkG5c46wVLzu4ijxCqw": {
+        "event": "Object Added",
+        "timestamp": 1701093998920
+      },
+      "-NkG5c6w30ElNSSfro9q": {
+        "event": "Card Removed",
+        "timestamp": 1701093999100
+      },
+      "-NkG5e3ck7SklnqiKHVo": {
+        "event": "Object Removed",
+        "timestamp": 1701094007081
+      },
+      "-NkG5hi1cuTCm0gFHzDF": {
+        "event": "Object Added",
+        "timestamp": 1701094022018
+      },
+      "-NkG5ixirOZzTcTKY7q7": {
+        "event": "Object Removed",
+        "timestamp": 1701094027118
+      },
+      "-NkG5jWi749r3MM1heWg": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701094029422
+      },
+      "-NkG5lKLfQ-x0MoTUblB": {
+        "event": "Card Removed",
+        "timestamp": 1701094036822
+      },
+      "-NkG5lNlN_GmDk8PxBb2": {
+        "event": "Object Removed",
+        "timestamp": 1701094037041
+      },
+      "-NkG5miotFrmf1Ky1HBd": {
+        "event": "Object Added",
+        "timestamp": 1701094042548
+      },
+      "-NkG5ny7wBsPeauVrj2t": {
+        "event": "Object Removed",
+        "timestamp": 1701094047624
+      },
+      "-NkG5qrJHNRGumuSAUSv": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701094059476
+      },
+      "-NkG5rcRIaH0jX68-VU1": {
+        "event": "Object Added",
+        "timestamp": 1701094062620
+      },
+      "-NkG5uCNdZziYHviarBX": {
+        "event": "Card Removed",
+        "timestamp": 1701094073176
+      },
+      "-NkG67sML2I_gSTLZC_W": {
+        "event": "Timer Expired",
+        "timestamp": 1701094133272
+      },
+      "-NkG695zkZlCLRcK3c2l": {
+        "event": "Object Removed",
+        "timestamp": 1701094138303
+      },
+      "-NkG7Q7wBaDOchDnqYiy": {
+        "event": "Object Added",
+        "timestamp": 1701094470204
+      },
+      "-NkGKPv-XKhhWU0nuFKv": {
+        "event": "Object Added",
+        "timestamp": 1701097877185
+      },
+      "-NkGKPy42bln6TglC1Gt": {
+        "event": "Card Removed",
+        "timestamp": 1701097877381
+      },
+      "-NkGKQfyoWabKK0hP3-N": {
+        "event": "Object Removed",
+        "timestamp": 1701097880318
+      },
+      "-NkGKRS7UWVKBTD4Rrq4": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701097883464
+      },
+      "-NkGKSOii8IZXL1K3-sV": {
+        "event": "Card Removed",
+        "timestamp": 1701097887342
+      },
+      "-NkGKSRTJZQs2L-Vk5Vy": {
+        "event": "Object Removed",
+        "timestamp": 1701097887518
+      },
+      "-NkGKUM_nrdE0RRb2-dH": {
+        "event": "Object Added",
+        "timestamp": 1701097895398
+      },
+      "-NkGKVVVKL2mYUQ0Vl8o": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701097900064
+      },
+      "-NkGKWpivZCC5GQ1gMFC": {
+        "event": "Object Added",
+        "timestamp": 1701097905518
+      },
+      "-NkGKYDD7MCWBqouNayM": {
+        "event": "Card Removed",
+        "timestamp": 1701097911182
+      },
+      "-NkGKltnQC2IkoPj2-EN": {
+        "event": "Timer Expired",
+        "timestamp": 1701097971316
+      },
+      "-NkGNSazvgv4wuuSxJ1G": {
+        "event": "Card Removed",
+        "timestamp": 1701098674623
+      },
+      "-NkGNUoEqTdpK-8gNr7N": {
+        "event": "Object Added",
+        "timestamp": 1701098683663
+      },
+      "-NkGNW76HMAymxL9-MoR": {
+        "event": "Object Removed",
+        "timestamp": 1701098689031
+      },
+      "-NkGNWOE5GR4YNYsiUT3": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701098690127
+      },
+      "-NkGNXh-zE_tHjSeCXGk": {
+        "event": "Card Removed",
+        "timestamp": 1701098695488
+      },
+      "-NkGNXjj-LnGm9s93SzZ": {
+        "event": "Object Removed",
+        "timestamp": 1701098695664
+      },
+      "-NkGNYWj4N9DUa6ZpS29": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701098698863
+      },
+      "-NkGNZicBGdELclRLtHB": {
+        "event": "Object Added",
+        "timestamp": 1701098703785
+      },
+      "-NkGNaHyC0eYYQ_1gmn7": {
+        "event": "Card Removed",
+        "timestamp": 1701098710206
+      },
+      "-NkGNozTuoc5g8vL7gXC": {
+        "event": "Timer Expired",
+        "timestamp": 1701098770398
+      },
+      "-NkGNr7y-UtwZQjD8-10": {
+        "event": "Object Removed",
+        "timestamp": 1701098779198
+      },
+      "-NkGNsMU5Ywib3BEBBA3": {
+        "event": "Object Added",
+        "timestamp": 1701098784223
+      },
+      "-NkGNw5R0ztOKiJrLV0_": {
+        "event": "Object Removed",
+        "timestamp": 1701098799516
+      },
+      "-NkGO2RuOM34jPxS8Vg6": {
+        "event": "Object Added",
+        "timestamp": 1701098829626
+      },
+      "-NkGO7O4b56PuAvJn_tB": {
+        "event": "Object Removed",
+        "timestamp": 1701098849861
+      },
+      "-NkGO8qodOlA1vWAHoIJ": {
+        "event": "Object Added",
+        "timestamp": 1701098855860
+      },
+      "-NkGODYB0rDzN5m4j7dj": {
+        "event": "Object Removed",
+        "timestamp": 1701098875085
+      },
+      "-NkGOKvWaqFWL07ClCEY": {
+        "event": "Object Added",
+        "timestamp": 1701098905313
+      },
+      "-NkGOM7PlYjfbzlkj_iZ": {
+        "event": "Object Removed",
+        "timestamp": 1701098910234
+      },
+      "-NkGOYSIIaXAqPnvaK2k": {
+        "event": "Object Added",
+        "timestamp": 1701098960724
+      },
+      "-NkGOZiKScGSCrJp9Xjj": {
+        "event": "Object Removed",
+        "timestamp": 1701098965909
+      },
+      "-NkGOb73V4DkrcsfRwz8": {
+        "event": "Object Added",
+        "timestamp": 1701098975748
+      },
+      "-NkGOcM3nT8KWLbLvwv8": {
+        "event": "Object Removed",
+        "timestamp": 1701098980804
+      },
+      "-NkGOgJOOpdF3R8aAROY": {
+        "event": "Object Added",
+        "timestamp": 1701098997018
+      },
+      "-NkGP1IRbtgvVMCNIiqH": {
+        "event": "Object Added",
+        "timestamp": 1701099087069
+      },
+      "-NkGP1LWL1LmYq5KZOzU": {
+        "event": "Card Removed",
+        "timestamp": 1701099087265
+      },
+      "-NkGP9RAHGg9HuDtECOt": {
+        "event": "Object Removed",
+        "timestamp": 1701099120395
+      },
+      "-NkGPALIUqryd2wfyZrW": {
+        "cardUID": " C4 8F 1F 2E",
+        "timestamp": 1701099124115
+      },
+      "-NkGPBpwcgL0w_qPHLD8": {
+        "event": "Object Added",
+        "timestamp": 1701099130236
+      },
+      "-NkGPCvgfccGaGpqFuSF": {
+        "event": "Card Removed",
+        "timestamp": 170109930000
+      },
+      "-NkGPZEBLnV_U4bz6CBZ": {
+        "timestamp": 1701099226060
+      },
+      "-NkGPeRCb15m_IUxkb8b": {
+        "event": "Object Added",
+        "timestamp": 1701099251469
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkV7d4oz5HkJo43sdA2": {
+        "event": "Card Removed",
+        "timestamp": 1701346185589
+      },
+      "-NkV7qzGFfYPRe096xy9": {
+        "event": "Object Added",
+        "timestamp": 1701346242514
+      },
+      "-NkV7sCKXbUVSkNITf2Q": {
+        "event": "Object Removed",
+        "timestamp": 1701346247509
+      },
+      "-NkV7tEhQaw1Lsuu81xs": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701346251757
+      },
+      "-NkV7v14DMkd_Yq694oW": {
+        "event": "Card Removed",
+        "timestamp": 1701346259077
+      },
+      "-NkV7v3mxT57nFMJ8KM1": {
+        "event": "Object Removed",
+        "timestamp": 1701346259251
+      },
+      "-NkV7vot23oqTauyKGBh": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701346262329
+      },
+      "-NkV7xDaH5xeWMQI-RN5": {
+        "event": "Object Added",
+        "timestamp": 1701346268070
+      },
+      "-NkV7zsLiSURSP5SN4YD": {
+        "event": "Card Removed",
+        "timestamp": 1701346278934
+      },
+      "-NkV817_XSE3xq0dYR3-": {
+        "event": "Object Removed",
+        "timestamp": 1701346288165
+      },
+      "-NkV82LiFdLNzcUHOryC": {
+        "event": "Object Added",
+        "timestamp": 1701346293166
+      },
+      "-NkV82P76fQ5dboUxRlx": {
+        "event": "Timer Expired",
+        "timestamp": 1701346293384
+      },
+      "-NkV8YUPtXMDPfEmvNSp": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701346424795
+      },
+      "-NkV8ZYGS-oKVk6DHegB": {
+        "event": "Card Removed",
+        "timestamp": 1701346429137
+      },
+      "-NkV8a5ZsErTrRE0HKe2": {
+        "event": "Object Removed",
+        "timestamp": 1701346435493
+      },
+      "-NkV9QXSFssN5LkCBPjD": {
+        "event": "Object Added",
+        "timestamp": 1701346654366
+      },
+      "-NkV9QbBwMRw_OJm_Esx": {
+        "event": "Timer Expired",
+        "timestamp": 1701346654668
+      },
+      "-NkVD1ZmDO2VCpxb6-RR": {
+        "event": "Card Removed",
+        "timestamp": 1701347600691
+      },
+      "-NkVDJ02f4_Yx8qj_vfa": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701347672131
+      },
+      "-NkVDKjIHq8-WisWLCdM": {
+        "event": "Card Removed",
+        "timestamp": 1701347679188
+      },
+      "-NkVDKnv3wbaZ6O1WaEv": {
+        "event": "Object Removed",
+        "timestamp": 1701347679483
+      },
+      "-NkVDxMt3XoC8RQtYQwU": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701347841529
+      },
+      "-NkVDylJrQ8Au4k2waDo": {
+        "event": "Object Added",
+        "timestamp": 1701347847252
+      },
+      "-NkVDz9FJGrczwwjD4iJ": {
+        "event": "Card Removed",
+        "timestamp": 1701347848848
+      },
+      "-NkVE2gFCASHePNuIpA6": {
+        "event": "Object Removed",
+        "timestamp": 1701347867409
+      },
+      "-NkVES6L73xclIGEPQ33": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701347971543
+      },
+      "-NkVEUzYdnxBiNrzPshf": {
+        "event": "Object Added",
+        "timestamp": 1701347983332
+      },
+      "-NkVEZ7AI6VR-O1iSo-e": {
+        "event": "Card Removed",
+        "timestamp": 1701348000268
+      },
+      "-NkVEZCBtCLmabMwC2u2": {
+        "event": "Object Removed",
+        "timestamp": 1701348000588
+      },
+      "-NkVEfr0pXQEwlFU05vY": {
+        "event": "Object Added",
+        "timestamp": 1701348031937
+      },
+      "-NkVEgW8RBMY4G3ibc76": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348034633
+      },
+      "-NkVEhvlBu14UxnwbjP9": {
+        "event": "Card Removed",
+        "timestamp": 1701348040433
+      },
+      "-NkVEhzEs9O7p--GMxnj": {
+        "event": "Object Removed",
+        "timestamp": 1701348040655
+      },
+      "-NkVEql06VNT_RM3bt93": {
+        "event": "Object Added",
+        "timestamp": 1701348076609
+      },
+      "-NkVErwvlWnAWu3KesXC": {
+        "event": "Object Removed",
+        "timestamp": 1701348081467
+      },
+      "-NkVF4OUNtxCV5tDko9t": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348136544
+      },
+      "-NkVF6muMSQqPRxtXHlq": {
+        "event": "Object Added",
+        "timestamp": 1701348146362
+      },
+      "-NkVF8Pyd4IM27AzerGF": {
+        "event": "Card Removed",
+        "timestamp": 1701348153022
+      },
+      "-NkVFNKoyovPjsPpYKmt": {
+        "event": "Timer Expired",
+        "timestamp": 1701348214132
+      },
+      "-NkVF_lkE-x_RSOcXF1R": {
+        "event": "Object Removed",
+        "timestamp": 1701348269169
+      },
+      "-NkVFa8N7xdAx5DfW8wB": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348270680
+      },
+      "-NkVFbMnkzV9o3xkEfMY": {
+        "event": "Object Added",
+        "timestamp": 1701348275699
+      },
+      "-NkVFbzGt4mpWtzb1fO6": {
+        "event": "Card Removed",
+        "timestamp": 1701348278225
+      },
+      "-NkVFcQsUZSlChnrFVwI": {
+        "event": "Object Removed",
+        "timestamp": 1701348280056
+      },
+      "-NkVFm8gtRebqOlLFYnL": {
+        "event": "Object Added",
+        "timestamp": 1701348319852
+      },
+      "-NkVFnQxi9Lb6NxWrdQQ": {
+        "event": "Object Removed",
+        "timestamp": 1701348325118
+      },
+      "-NkVFnaozyC4EN5XgNK5": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348325812
+      },
+      "-NkVFpSbMBMOS7Rfh2N2": {
+        "event": "Card Removed",
+        "timestamp": 1701348333415
+      },
+      "-NkVFpYaEVuUMn5ti7yt": {
+        "event": "Object Removed",
+        "timestamp": 1701348333798
+      },
+      "-NkVFtYzsnd4M2hbo-Sc": {
+        "event": "Object Added",
+        "timestamp": 1701348350208
+      },
+      "-NkVFujNlfaW0IuWRQRF": {
+        "event": "Object Removed",
+        "timestamp": 1701348355032
+      },
+      "-NkVFwUEZSpoj3XIEl2d": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348362191
+      },
+      "-NkVFxAsdWlc5vD_0ZCh": {
+        "event": "Object Added",
+        "timestamp": 1701348365048
+      },
+      "-NkVFzi6uq16Oe5oMtm2": {
+        "event": "Card Removed",
+        "timestamp": 1701348375431
+      },
+      "-NkVFzlucLFq2xuGdPqm": {
+        "event": "Object Removed",
+        "timestamp": 1701348375674
+      },
+      "-NkVG14URhnZNjhNES0L": {
+        "event": "Object Added",
+        "timestamp": 1701348385119
+      },
+      "-NkVG3n5CEPiSv1RIf3I": {
+        "event": "Object Removed",
+        "timestamp": 1701348396230
+      },
+      "-NkVGC-59rWero86fXdP": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348429830
+      },
+      "-NkVGEcU26LHqhLORpFO": {
+        "event": "Card Removed",
+        "timestamp": 1701348440607
+      },
+      "-NkVGEezttyxnTusA5F8": {
+        "event": "Object Removed",
+        "timestamp": 1701348440767
+      },
+      "-NkVGFKFoTbQtNKGv8T4": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348443472
+      },
+      "-NkVGFpMmR1Q7lJU3FyH": {
+        "event": "Object Added",
+        "timestamp": 1701348445527
+      },
+      "-NkVGHTjFwEAA2lI_WAE": {
+        "event": "Card Removed",
+        "timestamp": 1701348452271
+      },
+      "-NkVGW8-VJi_-78MpF7c": {
+        "event": "Timer Expired",
+        "timestamp": 1701348512321
+      },
+      "-NkVGeiola-flTGkKP3o": {
+        "event": "Object Removed",
+        "timestamp": 1701348551605
+      },
+      "-NkVGmNZejHz9Cdmzw4N": {
+        "event": "Object Added",
+        "timestamp": 1701348582948
+      },
+      "-NkVGnLl6ok8Qnht7t0H": {
+        "event": "Object Removed",
+        "timestamp": 1701348586929
+      },
+      "-NkVGtXG-E5Z5H8ANVIZ": {
+        "event": "Object Added",
+        "timestamp": 1701348612242
+      },
+      "-NkVGukEXx7Czae493tc": {
+        "event": "Object Removed",
+        "timestamp": 1701348617231
+      },
+      "-NkVGwBoBiQ-X3uObDZK": {
+        "event": "Object Added",
+        "timestamp": 1701348623156
+      },
+      "-NkVGxC1Eesj1g3j62gn": {
+        "event": "Object Removed",
+        "timestamp": 1701348627266
+      },
+      "-NkVGzdKy4KdVDLSPVrg": {
+        "event": "Object Added",
+        "timestamp": 1701348637269
+      },
+      "-NkVH-s_JuaeZewfZ0h1": {
+        "event": "Object Removed",
+        "timestamp": 1701348642341
+      },
+      "-NkVH14tXuEtQ2UAD2sh": {
+        "event": "Object Added",
+        "timestamp": 1701348647289
+      },
+      "-NkVHDNODaB76BR2tP0P": {
+        "event": "Object Removed",
+        "timestamp": 1701348697626
+      },
+      "-Nl9GU-1rqkcFaH8uinH": {
+        "event": "Card Removed",
+        "timestamp": 1702053146627
+      },
+      "-Nl9GWO6ytRNRmw34VJR": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053156423
+      },
+      "-Nl9GXsM_4VJx5La_B_U": {
+        "event": "Card Removed",
+        "timestamp": 1702053162519
+      },
+      "-Nl9GXusx1RXeweq-ADo": {
+        "event": "Object Removed",
+        "timestamp": 1702053162680
+      },
+      "-Nl9GYR8CI4slH8xVpm5": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053164809
+      },
+      "-Nl9Ga3wXaMAxPhFr9xs": {
+        "event": "Card Removed",
+        "timestamp": 1702053175612
+      },
+      "-Nl9Ga6XE1PzY2gGtRoy": {
+        "event": "Object Removed",
+        "timestamp": 1702053175778
+      },
+      "-Nl9GbcmQ9SdSe-Sm7IM": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053182002
+      },
+      "-Nl9GcPQCZ2xUfnYxHA5": {
+        "event": "Card Removed",
+        "timestamp": 1702053185179
+      },
+      "-Nl9GcRn6PPq78LrL0tR": {
+        "event": "Object Removed",
+        "timestamp": 1702053185331
+      },
+      "-Nl9GcysQpiCmZcuT28y": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053187513
+      },
+      "-Nl9GdiCSBCRyHSmra4q": {
+        "event": "Card Removed",
+        "timestamp": 1702053190541
+      },
+      "-Nl9Gdl0YIuPnHlhdRNY": {
+        "event": "Object Removed",
+        "timestamp": 1702053190721
+      },
+      "-Nl9GeYJgHV6qVh19PFA": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053193940
+      },
+      "-Nl9Gf8QreD1t62ZCT5J": {
+        "event": "Object Added",
+        "timestamp": 1702053196379
+      },
+      "-Nl9GfkzBa6CFpnM4iV5": {
+        "event": "Card Removed",
+        "timestamp": 1702053198911
+      },
+      "-Nl9GuPzd8cCqyw_hflb": {
+        "event": "Timer Expired",
+        "timestamp": 1702053258944
+      },
+      "-Nl9H-sjt5h4AvW0recC": {
+        "event": "Object Removed",
+        "timestamp": 1702053285424
+      },
+      "-Nl9H0BXqx3c7jOYDLQb": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053286690
+      },
+      "-Nl9H0aS-OfMts_A8keJ": {
+        "event": "Object Added",
+        "timestamp": 1702053288349
+      },
+      "-Nl9H1Iv4MILGgDP3rHT": {
+        "event": "Card Removed",
+        "timestamp": 1702053291259
+      },
+      "-Nl9HGClynQx7gSzWVil": {
+        "event": "Timer Expired",
+        "timestamp": 1702053352306
+      },
+      "-Nl9HKHAAf01E5xbxEVE": {
+        "event": "Object Removed",
+        "timestamp": 1702053368971
+      },
+      "-Nl9HKOZvA-e5tDildgk": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053369444
+      },
+      "-Nl9HKlIKgVLcWZMEvaz": {
+        "event": "Object Added",
+        "timestamp": 1702053370963
+      },
+      "-Nl9HLAn8YGNBGSMaVjK": {
+        "event": "Card Removed",
+        "timestamp": 1702053372659
+      },
+      "-Nl9HZs7Tr70_c4Z-cS-": {
+        "event": "Timer Expired",
+        "timestamp": 1702053432840
+      },
+      "-Nl9HfRrAS7undF8A8QE": {
+        "event": "Object Removed",
+        "timestamp": 1702053459767
+      },
+      "-Nl9HgdW8RCYue4TYmaL": {
+        "event": "Object Added",
+        "timestamp": 1702053464673
+      },
+      "-Nl9Hh9tIDaxGvnAmXXb": {
+        "event": "Object Removed",
+        "timestamp": 1702053466810
+      },
+      "-Nl9HhPbLWmjXIhWDGUw": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053467815
+      },
+      "-Nl9HiFuC22LUdExkFZ5": {
+        "event": "Card Removed",
+        "timestamp": 1702053471290
+      },
+      "-Nl9HiIipash7qzPLvRn": {
+        "event": "Object Removed",
+        "timestamp": 1702053471470
+      },
+      "-Nl9HiajJXsYoQoyQcyA": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702053472687
+      },
+      "-Nl9Hiw7eD219Asvagq2": {
+        "event": "Object Added",
+        "timestamp": 1702053474056
+      },
+      "-Nl9HjdB7wxjxVAXWHHA": {
+        "event": "Card Removed",
+        "timestamp": 1702053476940
+      },
+      "-Nl9HyMonAOSfUa2oBXT": {
+        "event": "Timer Expired",
+        "timestamp": 1702053537268
+      },
+      "-Nl9I1CVnSImPXHBGT7d": {
+        "event": "Object Removed",
+        "timestamp": 1702053552992
+      },
+      "-Nl9W_mamfz-FO_rPAc9": {
+        "event": "Card Removed",
+        "timestamp": 1702057368742
+      },
+      "-Nl9W_pO_WofEgwhlwK2": {
+        "event": "Object Removed",
+        "timestamp": 1702057368922
+      },
+      "-Nl9WbON6kzWRvJ0IWJn": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702057375320
+      },
+      "-Nl9WcXK32yphQlheebY": {
+        "event": "Card Removed",
+        "timestamp": 1702057379990
+      },
+      "-Nl9Wc_2sEFCSb9kgTmR": {
+        "event": "Object Removed",
+        "timestamp": 1702057380164
+      },
+      "-Nl9Wcvabviz7BY_lvcd": {
+        "event": "Object Added",
+        "timestamp": 1702057381606
+      },
+      "-Nl9WdgTtvPjTpJuz5DM": {
+        "event": "Object Removed",
+        "timestamp": 1702057384734
+      },
+      "-Nl9WeAksL2fmegS2dxi": {
+        "event": "Object Added",
+        "timestamp": 1702057386737
+      },
+      "-Nl9Wf9eU_3A1iCgsp-j": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1702057390762
+      },
+      "-Nl9WgG4Qg6ZXp0RSu_1": {
+        "event": "Object Added",
+        "timestamp": 1702057395269
+      },
+      "-Nl9Wg_6sTMhNfkadjcD": {
+        "event": "Card Removed",
+        "timestamp": 1702057396551
+      },
+      "-Nl9WgbqqkAg5MEFOuIU": {
+        "event": "Object Removed",
+        "timestamp": 1702057396726
+      },
+      "-Nl9Wob1ZQCDq0O25lXh": {
+        "event": "Object Added",
+        "timestamp": 1702057429442
+      },
+      "-Nl9WpMckN7ZnGRjX8nU": {
+        "event": "Object Removed",
+        "timestamp": 1702057432552
+      },
+      "-Nl9WpqyW49tk6Q8rRS2": {
+        "event": "Object Added",
+        "timestamp": 1702057434558
+      },
+      "-Nl9Wq6WRFR3_yJpvr_M": {
+        "event": "Object Removed",
+        "timestamp": 1702057435617
+      },
+      "-Nl9WqMDWChoCaHih17F": {
+        "event": "Object Added",
+        "timestamp": 1702057436622
+      },
+      "-Nl9WqbnViw36sLYx2MP": {
+        "event": "Object Removed",
+        "timestamp": 1702057437683
+      },
+      "-Nl9X9ICdtApOsXuo8t0": {
+        "event": "Object Added",
+        "timestamp": 1702057518285
+      },
+      "-Nl9X9c5cBVmZv_4neL4": {
+        "event": "Object Removed",
+        "timestamp": 1702057519623
+      },
+      "-Nl9XQ2QTsggg6b51gqO": {
+        "event": "Object Added",
+        "timestamp": 1702057586908
+      },
+      "-Nl9XQ7Jxalx7BZA_-vi": {
+        "event": "Object Removed",
+        "timestamp": 1702057587221
+      },
+      "-Nl9XTwTOcMbQbjOgYs2": {
+        "event": "Object Added",
+        "timestamp": 1702057602846
+      },
+      "-Nl9XUAZMaGe0SxQvAQP": {
+        "event": "Object Removed",
+        "timestamp": 1702057603812
+      },
+      "-Nl9YOOkUnLEn9K_RBOr": {
+        "event": "Object Added",
+        "timestamp": 1702057842289
+      },
+      "-Nl9YOp3YGnwWmhOihUl": {
+        "event": "Object Removed",
+        "timestamp": 1702057844037
+      },
+      "-Nl9ZFTFtrZNEe79UbbT": {
+        "event": "Object Added",
+        "timestamp": 1702058067856
+      },
+      "-Nl9ZFXhiZ4CmLANfGDX": {
+        "event": "Object Removed",
+        "timestamp": 1702058068141
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGA7qT0hEZOQYdLsC": {
+        "event": "Object Removed",
+        "timestamp": 1701348673610
+      },
+      "-NkVGBiLZf_p6Njn-CBS": {
+        "event": "Object Added",
+        "timestamp": 1701348675904
+      },
+      "-NkVGBnQ1CgMlyzBrI3b": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348680112
+      },
+      "-NkVGC7LuI7GgDO9xO5J": {
+        "event": "Card Removed",
+        "timestamp": 1701348683419
+      },
+      "-NkVGDX7Wfd1NxwZ3yS1": {
+        "event": "Object Removed",
+        "timestamp": 1701348685487
+      },
+      "-NkVGEGLQhAV5UcAtdqI": {
+        "cardUID": " 33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701348689830
+      },
+      "-NkVGEwskLWi6um-rckK": {
+        "event": "Object Added",
+        "timestamp": 1701348692074
+      },
+      "-NkVGF76NhNQw-ukizpS": {
+        "event": "Card Removed",
+        "timestamp": 1701348694653
+      },
+      "-NkVGGAnjflAaY-YBKd9": {
+        "event": "Object Removed",
+        "timestamp": 1701348696978
+      },
+      "-NkVGn8UYZTwVqCzL2iI": {
+        "event": "Card Removed",
+        "timestamp": 1701348623410
+      },
+      "-NkVGoZb8-SqD6LEijuy": {
+        "event": "Object Added",
+        "timestamp": 1701348631287
+      },
+      "-NkVGprIZyshV7MbpnRC": {
+        "event": "Object Removed",
+        "timestamp": 1701348635392
+      },
+      "-NkVGqC52WUv1YRejplv": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348640017
+      },
+      "-NkVGrBxl0QqAvtk3W7z": {
+        "event": "Card Removed",
+        "timestamp": 1701348645298
+      },
+      "-NkVGsO3xvIzbpo-E45d": {
+        "event": "Object Removed",
+        "timestamp": 1701348647467
+      },
+      "-NkVGtbLSpUWfGcyRbDg": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348652345
+      },
+      "-NkVGuaJG-ghXfNMP_6b": {
+        "event": "Object Added",
+        "timestamp": 1701348656491
+      },
+      "-NkVGvxC3uIhKxOTugAB": {
+        "event": "Card Removed",
+        "timestamp": 1701348659837
+      },
+      "-NkVGw1tUyKrFDwO__6Z": {
+        "event": "Object Removed",
+        "timestamp": 1701348661963
+      },
+      "-NkVGx9cd-8VY_rFe-1C": {
+        "cardUID": " C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348666234
+      },
+      "-NkVGyH92hBJGtVCmYYM": {
+        "event": "Object Added",
+        "timestamp": 1701348668507
+      },
+      "-NkVGzPVeOwJf0mNxlQU": {
+        "event": "Card Removed",
+        "timestamp": 1701348670985
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGBnQ1CgMlyzBrI3b": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1701358540017
+      },
+      "-NkVGC7LuI7GgDO9xO5J": {
+        "event": "Card Removed",
+        "timestamp": 1701362260017
+      },
+      "-NkVGqC52WUv1YRejplv": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701348640017
+      },
+      "-NkVGrBxl0QqAvtk3W7z": {
+        "event": "Card Removed",
+        "timestamp": 1701356620017
+      },
+      "-NkVGx9cd-8VY_rFe-1C": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1701363160017
+      },
+      "-NkVGzPVeOwJf0mNxlQU": {
+        "event": "Card Removed",
+        "timestamp": 1701373180017
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGaa": {
+        "event": "Object Added",
+        "timestamp": 1672556520000
+      },
+      "-NkVGab": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672556400000
+      },
+      "-NkVGac": {
+        "event": "Card Removed",
+        "timestamp": 1672559040000
+      },
+      "-NkVGad": {
+        "event": "Timer Expired",
+        "timestamp": 1672559940000
+      },
+      "-NkVGae": {
+        "event": "Object Removed",
+        "timestamp": 1672562040000
+      },
+      "-NkVGba": {
+        "event": "Object Added",
+        "timestamp": 1672561920000
+      },
+      "-NkVGbb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672562040000
+      },
+      "-NkVGbc": {
+        "event": "Card Removed",
+        "timestamp": 1672563780000
+      },
+      "-NkVGbd": {
+        "event": "Timer Expired",
+        "timestamp": 1672564680000
+      },
+      "-NkVGbe": {
+        "event": "Object Removed",
+        "timestamp": 1672565700000
+      },
+      "-NkVGca": {
+        "event": "Object Added",
+        "timestamp": 1672565700000
+      },
+      "-NkVGcb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672565700000
+      },
+      "-NkVGcc": {
+        "event": "Card Removed",
+        "timestamp": 1672572240000
+      },
+      "-NkVGcd": {
+        "event": "Timer Expired",
+        "timestamp": 1672573140000
+      },
+      "-NkVGce": {
+        "event": "Object Removed",
+        "timestamp": 1672576380000
+      },
+      "-NkVGda": {
+        "event": "Object Added",
+        "timestamp": 1672576260000
+      },
+      "-NkVGdb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672576380000
+      },
+      "-NkVGdc": {
+        "event": "Card Removed",
+        "timestamp": 1672584960000
+      },
+      "-NkVGdd": {
+        "event": "Object Removed",
+        "timestamp": 1672585020000
+      },
+      "-NkVGea": {
+        "event": "Object Added",
+        "timestamp": 1672600800000
+      },
+      "-NkVGeb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672600800000
+      },
+      "-NkVGec": {
+        "event": "Card Removed",
+        "timestamp": 1672601100000
+      },
+      "-NkVGed": {
+        "event": "Timer Expired",
+        "timestamp": 1672602000000
+      },
+      "-NkVGee": {
+        "event": "Object Removed",
+        "timestamp": 1672607880000
+      },
+      "-NkVGfa": {
+        "event": "Object Added",
+        "timestamp": 1672607760000
+      },
+      "-NkVGfb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672607880000
+      },
+      "-NkVGfc": {
+        "event": "Card Removed",
+        "timestamp": 1672613340000
+      },
+      "-NkVGfd": {
+        "event": "Timer Expired",
+        "timestamp": 1672614240000
+      },
+      "-NkVGfe": {
+        "event": "Object Removed",
+        "timestamp": 1672617120000
+      },
+      "-NkVGga": {
+        "event": "Object Added",
+        "timestamp": 1672617000000
+      },
+      "-NkVGgb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672617120000
+      },
+      "-NkVGgc": {
+        "event": "Card Removed",
+        "timestamp": 1672619340000
+      },
+      "-NkVGgd": {
+        "event": "Object Removed",
+        "timestamp": 1672619340000
+      },
+      "-NkVGha": {
+        "event": "Object Added",
+        "timestamp": 1672622040000
+      },
+      "-NkVGhb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672622040000
+      },
+      "-NkVGhc": {
+        "event": "Card Removed",
+        "timestamp": 1672625280000
+      },
+      "-NkVGhd": {
+        "event": "Object Removed",
+        "timestamp": 1672625280000
+      },
+      "-NkVGia": {
+        "event": "Object Added",
+        "timestamp": 1672638960000
+      },
+      "-NkVGib": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672638960000
+      },
+      "-NkVGic": {
+        "event": "Card Removed",
+        "timestamp": 1672643580000
+      },
+      "-NkVGid": {
+        "event": "Object Removed",
+        "timestamp": 1672643700000
+      },
+      "-NkVGja": {
+        "event": "Object Added",
+        "timestamp": 1672643640000
+      },
+      "-NkVGjb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672643580000
+      },
+      "-NkVGjc": {
+        "event": "Card Removed",
+        "timestamp": 1672649340000
+      },
+      "-NkVGjd": {
+        "event": "Timer Expired",
+        "timestamp": 1672650240000
+      },
+      "-NkVGje": {
+        "event": "Object Removed",
+        "timestamp": 1672653300000
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGaa": {
+        "event": "Object Added",
+        "timestamp": 1672556400000
+      },
+      "-NkVGab": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672556400000
+      },
+      "-NkVGac": {
+        "event": "Card Removed",
+        "timestamp": 1672564539349.9456
+      },
+      "-NkVGad": {
+        "event": "Object Removed",
+        "timestamp": 1672564599349.9456
+      },
+      "-NkVGba": {
+        "event": "Object Added",
+        "timestamp": 1672576808847.2249
+      },
+      "-NkVGbb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672576748847.2249
+      },
+      "-NkVGbc": {
+        "event": "Card Removed",
+        "timestamp": 1672586379493.603
+      },
+      "-NkVGbd": {
+        "event": "Object Removed",
+        "timestamp": 1672586259493.603
+      },
+      "-NkVGca": {
+        "event": "Object Added",
+        "timestamp": 1672599632503.4888
+      },
+      "-NkVGcb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672599632503.4888
+      },
+      "-NkVGcc": {
+        "event": "Card Removed",
+        "timestamp": 1672607289471.045
+      },
+      "-NkVGcd": {
+        "event": "Object Removed",
+        "timestamp": 1672607289471.045
+      },
+      "-NkVGda": {
+        "event": "Object Added",
+        "timestamp": 1672611084201.9695
+      },
+      "-NkVGdb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672610964201.9695
+      },
+      "-NkVGdc": {
+        "event": "Card Removed",
+        "timestamp": 1672613013644.6016
+      },
+      "-NkVGdd": {
+        "event": "Object Removed",
+        "timestamp": 1672613073644.6016
+      },
+      "-NkVGea": {
+        "event": "Object Added",
+        "timestamp": 1672622643451.5635
+      },
+      "-NkVGeb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672622643451.5635
+      },
+      "-NkVGec": {
+        "event": "Card Removed",
+        "timestamp": 1672624402666.058
+      },
+      "-NkVGed": {
+        "event": "Object Removed",
+        "timestamp": 1672624462666.058
+      },
+      "-NkVGfa": {
+        "event": "Object Added",
+        "timestamp": 1672636903138.9766
+      },
+      "-NkVGfb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672637023138.9766
+      },
+      "-NkVGfc": {
+        "event": "Card Removed",
+        "timestamp": 1672640442265.9268
+      },
+      "-NkVGfd": {
+        "event": "Object Removed",
+        "timestamp": 1672640442265.9268
+      },
+      "-NkVGga": {
+        "event": "Object Added",
+        "timestamp": 1672643077210.3613
+      },
+      "-NkVGgb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672643017210.3613
+      },
+      "-NkVGgc": {
+        "event": "Card Removed",
+        "timestamp": 1672650741543.741
+      },
+      "-NkVGgd": {
+        "event": "Object Removed",
+        "timestamp": 1672650681543.741
+      },
+      "-NkVGha": {
+        "event": "Object Added",
+        "timestamp": 1672662756420.4211
+      },
+      "-NkVGhb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672662696420.4211
+      },
+      "-NkVGhc": {
+        "event": "Card Removed",
+        "timestamp": 1672666549108.9482
+      },
+      "-NkVGhd": {
+        "event": "Object Removed",
+        "timestamp": 1672666489108.9482
+      },
+      "-NkVGia": {
+        "event": "Object Added",
+        "timestamp": 1672669439573.829
+      },
+      "-NkVGib": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672669559573.829
+      },
+      "-NkVGic": {
+        "event": "Card Removed",
+        "timestamp": 1672674692246.7314
+      },
+      "-NkVGid": {
+        "event": "Timer Expired",
+        "timestamp": 1672675592246.7314
+      },
+      "-NkVGie": {
+        "event": "Object Removed",
+        "timestamp": 1672682072246.7314
+      },
+      "-NkVGja": {
+        "event": "Object Added",
+        "timestamp": 1672682132246.7314
+      },
+      "-NkVGjb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672682072246.7314
+      },
+      "-NkVGjc": {
+        "event": "Card Removed",
+        "timestamp": 1672687522429.9626
+      },
+      "-NkVGjd": {
+        "event": "Timer Expired",
+        "timestamp": 1672688422429.9626
+      },
+      "-NkVGje": {
+        "event": "Object Removed",
+        "timestamp": 1672689502429.9626
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGaa": {
+        "event": "Object Added",
+        "timestamp": 1672556400000
+      },
+      "-NkVGab": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672556400000
+      },
+      "-NkVGac": {
+        "event": "Card Removed",
+        "timestamp": 1672568802842.391
+      },
+      "-NkVGad": {
+        "event": "Timer Expired",
+        "timestamp": 1672569702842.391
+      },
+      "-NkVGae": {
+        "event": "Object Removed",
+        "timestamp": 1672576122842.391
+      },
+      "-NkVGba": {
+        "event": "Object Added",
+        "timestamp": 1672576122842.391
+      },
+      "-NkVGbb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672576122842.391
+      },
+      "-NkVGbc": {
+        "event": "Card Removed",
+        "timestamp": 1672580334530.1672
+      },
+      "-NkVGbd": {
+        "event": "Object Removed",
+        "timestamp": 1672580334530.1672
+      },
+      "-NkVGca": {
+        "event": "Object Added",
+        "timestamp": 1672596311544.7556
+      },
+      "-NkVGcb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672596371544.7556
+      },
+      "-NkVGcc": {
+        "event": "Card Removed",
+        "timestamp": 1672600342742.5789
+      },
+      "-NkVGcd": {
+        "event": "Object Removed",
+        "timestamp": 1672600222742.5789
+      },
+      "-NkVGda": {
+        "event": "Object Added",
+        "timestamp": 1672602432141.7202
+      },
+      "-NkVGdb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672602552141.7202
+      },
+      "-NkVGdc": {
+        "event": "Card Removed",
+        "timestamp": 1672610651692.495
+      },
+      "-NkVGdd": {
+        "event": "Object Removed",
+        "timestamp": 1672610651692.495
+      },
+      "-NkVGea": {
+        "event": "Object Added",
+        "timestamp": 1672610677046.5193
+      },
+      "-NkVGeb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672610677046.5193
+      },
+      "-NkVGec": {
+        "event": "Card Removed",
+        "timestamp": 1672617391388.312
+      },
+      "-NkVGed": {
+        "event": "Object Removed",
+        "timestamp": 1672617391388.312
+      },
+      "-NkVGfa": {
+        "event": "Object Added",
+        "timestamp": 1672622411870.3967
+      },
+      "-NkVGfb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672622291870.3967
+      },
+      "-NkVGfc": {
+        "event": "Card Removed",
+        "timestamp": 1672624679880.4065
+      },
+      "-NkVGfd": {
+        "event": "Object Removed",
+        "timestamp": 1672624679880.4065
+      },
+      "-NkVGga": {
+        "event": "Object Added",
+        "timestamp": 1672640506051.1804
+      },
+      "-NkVGgb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672640566051.1804
+      },
+      "-NkVGgc": {
+        "event": "Card Removed",
+        "timestamp": 1672644100348.002
+      },
+      "-NkVGgd": {
+        "event": "Timer Expired",
+        "timestamp": 1672645000348.002
+      },
+      "-NkVGge": {
+        "event": "Object Removed",
+        "timestamp": 1672648480348.002
+      },
+      "-NkVGha": {
+        "event": "Object Added",
+        "timestamp": 1672648420348.002
+      },
+      "-NkVGhb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672648480348.002
+      },
+      "-NkVGhc": {
+        "event": "Card Removed",
+        "timestamp": 1672653448150.21
+      },
+      "-NkVGhd": {
+        "event": "Object Removed",
+        "timestamp": 1672653568150.21
+      },
+      "-NkVGia": {
+        "event": "Object Added",
+        "timestamp": 1672666333893.371
+      },
+      "-NkVGib": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672666333893.371
+      },
+      "-NkVGic": {
+        "event": "Card Removed",
+        "timestamp": 1672668266521.7056
+      },
+      "-NkVGid": {
+        "event": "Object Removed",
+        "timestamp": 1672668266521.7056
+      },
+      "-NkVGja": {
+        "event": "Object Added",
+        "timestamp": 1672668524750.3752
+      },
+      "-NkVGjb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672668464750.3752
+      },
+      "-NkVGjc": {
+        "event": "Card Removed",
+        "timestamp": 1672683631869.193
+      },
+      "-NkVGjd": {
+        "event": "Object Removed",
+        "timestamp": 1672683571869.193
+      },
+      "lightState": "Green"
+    },
+    {
+      "-NkVGaa": {
+        "event": "Object Added",
+        "timestamp": 1672556280000
+      },
+      "-NkVGab": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672556400000
+      },
+      "-NkVGac": {
+        "event": "Card Removed",
+        "timestamp": 1672564327857.6682
+      },
+      "-NkVGad": {
+        "event": "Object Removed",
+        "timestamp": 1672564387857.6682
+      },
+      "-NkVGba": {
+        "event": "Object Added",
+        "timestamp": 1672567924867.1401
+      },
+      "-NkVGbb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672567864867.1401
+      },
+      "-NkVGbc": {
+        "event": "Card Removed",
+        "timestamp": 1672573765580.439
+      },
+      "-NkVGbd": {
+        "event": "Timer Expired",
+        "timestamp": 1672574665580.439
+      },
+      "-NkVGbe": {
+        "event": "Object Removed",
+        "timestamp": 1672578505580.439
+      },
+      "-NkVGca": {
+        "event": "Object Added",
+        "timestamp": 1672578445580.439
+      },
+      "-NkVGcb": {
+        "cardUID": "DS 3D 1N MM",
+        "event": "Card Placed",
+        "timestamp": 1672578505580.439
+      },
+      "-NkVGcc": {
+        "event": "Card Removed",
+        "timestamp": 1672584048761.24
+      },
+      "-NkVGcd": {
+        "event": "Object Removed",
+        "timestamp": 1672584168761.24
+      },
+      "-NkVGda": {
+        "event": "Object Added",
+        "timestamp": 1672597882384.1914
+      },
+      "-NkVGdb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672597762384.1914
+      },
+      "-NkVGdc": {
+        "event": "Card Removed",
+        "timestamp": 1672605168716.306
+      },
+      "-NkVGdd": {
+        "event": "Timer Expired",
+        "timestamp": 1672606068716.306
+      },
+      "-NkVGde": {
+        "event": "Object Removed",
+        "timestamp": 1672610388716.306
+      },
+      "-NkVGea": {
+        "event": "Object Added",
+        "timestamp": 1672610388716.306
+      },
+      "-NkVGeb": {
+        "cardUID": "33 76 EA FD",
+        "event": "Card Placed",
+        "timestamp": 1672610388716.306
+      },
+      "-NkVGec": {
+        "event": "Card Removed",
+        "timestamp": 1672623070667.1958
+      },
+      "-NkVGed": {
+        "event": "Timer Expired",
+        "timestamp": 1672623970667.1958
+      },
+      "-NkVGee": {
+        "event": "Object Removed",
+        "timestamp": 1672624990667.1958
+      },
+      "-NkVGfa": {
+        "event": "Object Added",
+        "timestamp": 1672624930667.1958
+      },
+      "-NkVGfb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672624990667.1958
+      },
+      "-NkVGfc": {
+        "event": "Card Removed",
+        "timestamp": 1672629280905.3638
+      },
+      "-NkVGfd": {
+        "event": "Object Removed",
+        "timestamp": 1672629280905.3638
+      },
+      "-NkVGga": {
+        "event": "Object Added",
+        "timestamp": 1672632987305.538
+      },
+      "-NkVGgb": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672633107305.538
+      },
+      "-NkVGgc": {
+        "event": "Card Removed",
+        "timestamp": 1672646968263.229
+      },
+      "-NkVGgd": {
+        "event": "Object Removed",
+        "timestamp": 1672646848263.229
+      },
+      "-NkVGha": {
+        "event": "Object Added",
+        "timestamp": 1672650681296.7068
+      },
+      "-NkVGhb": {
+        "cardUID": "55 H4 IE 9I",
+        "event": "Card Placed",
+        "timestamp": 1672650801296.7068
+      },
+      "-NkVGhc": {
+        "event": "Card Removed",
+        "timestamp": 1672652666484.5132
+      },
+      "-NkVGhd": {
+        "event": "Object Removed",
+        "timestamp": 1672652546484.5132
+      },
+      "-NkVGia": {
+        "event": "Object Added",
+        "timestamp": 1672666575890.0095
+      },
+      "-NkVGib": {
+        "cardUID": "C4 8F 1F 2E",
+        "event": "Card Placed",
+        "timestamp": 1672666575890.0095
+      },
+      "-NkVGic": {
+        "event": "Card Removed",
+        "timestamp": 1672673884134.426
+      },
+      "-NkVGid": {
+        "event": "Object Removed",
+        "timestamp": 1672674004134.426
+      },
+      "-NkVGja": {
+        "event": "Object Added",
+        "timestamp": 1672677222096.316
+      },
+      "-NkVGjb": {
+        "cardUID": "2H 34 23 HF",
+        "event": "Card Placed",
+        "timestamp": 1672677162096.316
+      },
+      "-NkVGjc": {
+        "event": "Card Removed",
+        "timestamp": 1672685901016.768
+      },
+      "-NkVGjd": {
+        "event": "Object Removed",
+        "timestamp": 1672686021016.768
+      },
+      "lightState": "Green"
+    }
+  ]
+}
